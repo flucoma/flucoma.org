@@ -1,3 +1,11 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
 .page_nav {
   position: absolute;
   top: 0;
@@ -111,6 +119,8 @@
 }
 
 .page_main {
+  flex-grow: 1;
+
   @nest [data-type="article"] & {
     @media (--for-laptop-up) {
       display: grid;
