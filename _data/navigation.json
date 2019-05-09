@@ -1,0 +1,14 @@
+{
+  "primary": {
+    "Download": "#",
+    "Learn": "#",
+    "Discuss": "#"
+  },
+  "secondary": {
+    "Home": "/",
+    "About": "/about",
+    "News": "/news",
+    "People": "/#people",
+    "Publications": "/publications"
+  }
+}

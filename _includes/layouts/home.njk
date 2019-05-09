@@ -1,0 +1,59 @@
+---
+layout: layouts/base.njk
+pagetype: home
+---
+
+<section class="intro">
+  {% set intro = introduction.split(' ') %}
+  <p class="intro_text" aria-label="{{ introduction }}">
+    {%- for word in intro -%}
+    <span class="intro_word" aria-hidden="true">{{ word }}</span>
+    {%- endfor -%}
+  </p>
+  <a class="intro_link" href="about">More about FluCoMa</a>
+</section>
+
+<section class="latest-news">
+  {% set news = collections.news | reverse %}
+  {%- for story in news.slice(0, 2) -%}
+    <article class="latest-news_story">
+      <div class="latest-news_meta">
+        <span class="latest-news_tag">{{ story.data.tags }}</span>
+        <time class="latest-news_date">{{ story.data.date | ddMMyy }}</time>
+      </div>
+      <div class="latest-news_text">
+        <h1 class="latest-news_heading">
+          {{ story.data.title }}
+        </h1>
+        {{ story.templateContent | safe | truncate(100) }}
+      </div>
+      <a class="latest-news_more" href="news#{{ story.data.title | slug }}">Read more</a>
+    </article>
+  {%- endfor -%}
+</section>
+
+<section class="people" id="people">
+  <ul class="people_list">
+    {%- for person in collections.people -%}
+    <li class="people_item">
+      <a class="people_image" href="{{ person.data.website }}" target="_blank">
+        <img class="people_img" src="/img/team/{{ person.data.name | slug }}.jpg" alt="" />
+      </a>
+      <div class="people_text">
+        {% set name = person.data.name.split(' ') %}
+        <h2 class="people_name" aria-label="{{ person.data.name }}">
+          {%- for word in name -%}
+          <span class="people_word" aria-hidden="true">{{ word }}</span>
+          {%- endfor -%}
+        </h2>
+        {% set intro = person.data.introduction.split(' ') %}
+        <p class="people_intro" aria-label="{{ person.data.introduction }}">
+          {%- for word in intro -%}
+          <span class="people_word" aria-hidden="true">{{ word }}</span>
+          {%- endfor -%}
+        </p>
+      </div>
+    </li>
+    {%- endfor -%}
+  </ul>
+</section>

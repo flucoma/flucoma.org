@@ -1,0 +1,80 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Overpass';
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text-colour);
+
+  @media (--for-tablet-landscape-up) {
+    font-size: 20px;
+  }
+}
+
+img {
+  max-width: 100%;
+  border-style: none;
+}
+
+p {
+  margin-top: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: solid 0.1em var(--accent-colour);
+  background-color: transparent;
+
+  @nest .page_footer &,
+        .main-nav &,
+        .page_nav &,
+        .page-header & {
+    border: none;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.4;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 800;
+}
+h2 {
+  font-size: 1.8em;
+}
+h3 {
+  font-size: 1.6em;
+}
+h4 {
+  font-size: 1.4em;
+}
+h5 {
+  font-size: 1.2em;
+}
+h6 {
+  font-size: 1em;
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+em {
+  & strong {
+    font-style: normal;
+    color: var(--dark-blue);
+  }
+}
+
+blockquote {
+  border-left: 0.3em solid var(--light-blue);
+  margin-left: 0.3em;
+  padding-left: 1em;
+}

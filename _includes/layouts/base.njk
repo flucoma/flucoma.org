@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{{ title }}</title>
+		<link rel="stylesheet" href="/css/styles.css" />
+	</head>
+	<body>
+
+		<div class="main-nav" aria-hidden="true">
+			<nav class="main-nav_content">
+				<ul class="main-nav_list">
+					{%- for title, link in navigation.secondary -%}
+						<li class="main-nav_item" data-type="secondary">
+							<a class="main-nav_link" href="{{ link }}">{{ title }}</a>
+						</li>
+					{%- endfor -%}
+					{%- for title, link in navigation.primary -%}
+						<li class="main-nav_item" data-type="primary">
+							<a class="main-nav_link" href="{{ link }}">{{ title }}</a>
+						</li>
+					{%- endfor -%}
+				</ul>
+				<button class="main-nav_close" data-close>Close menu</button>
+			</nav>
+		</div>
+
+		<div class="page"{% if pagetype %} data-type="{{ pagetype }}"{% endif %}>
+
+			<nav class="page_nav">
+				<ul class="page_nav-primary">
+					{%- for title, link in navigation.primary -%}
+						<li class="page_nav-item">
+							<a class="page_nav-link" href="{{ link }}">{{ title }}</a>
+						</li>
+					{%- endfor -%}
+				</ul>
+				<button class="page_nav-open js-open-nav">Open menu</button>
+			</nav>
+
+			<main class="page_main">
+				{% include "components/page-header.njk" %}
+				{{ layoutContent | safe }}
+			</main>
+
+			<footer class="page_footer" id="footer">
+				<div class="page_footer-contact">
+					<div>
+						<h3 class="page_footer-heading">Address</h3>
+						<address class="page_footer-address">
+							{%- for line in contact.address -%}
+								{{ line }}
+								{%- if loop.index <  contact.address | length -%}
+								<br />
+								{%- endif -%}
+							{%- endfor -%}
+						</address>
+					</div>
+
+					<div>
+						{%- if contact.phone -%}
+						<h3 class="page_footer-heading">Phone</h3>
+						{{ contact.phone }}
+						{%- endif -%}
+
+						{%- if contact.email -%}
+						<h3 class="page_footer-heading">Email</h3>
+						<a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+						{%- endif -%}
+					</div>
+
+					<div>
+						{%- if contact.twitter -%}
+						<h3 class="page_footer-heading">Twitter</h3>
+						<a href="https://twitter.com/{{ contact.twitter }}">twitter.com/{{ contact.twitter }}</a>
+						{%- endif -%}
+
+						{%- if contact.facebook -%}
+						<h3 class="page_footer-heading">Facebook</h3>
+						<a href="https://www.facebook.com/{{ contact.facebook }}">facebook.com/{{ contact.facebook }}</a>
+						{%- endif -%}
+
+						{%- if contact.instagram -%}
+						<h3 class="page_footer-heading">Instagram</h3>
+						<a href="https://www.instagram.com/{{ contact.instagram }}/">instagram.com/{{ contact.instagram }}</a>
+						{%- endif -%}
+					</div>
+				</div>
+
+				<p class="page_footer-copyright">
+					© <a target="_blank" href="http://www.hud.ac.uk/">University of Huddersfield</a>. All rights reserved.
+				</p>
+			</footer>
+		</div>
+
+		{% set js %}
+	    {% include "js/scroll.js" %}
+			{% include "js/main-nav.js" %}
+			{% if pagetype == 'home' %}
+			  {% include "js/dotdotdot.js" %}
+			{% endif %}
+	  {% endset %}
+	  <script>{{ js | jsmin | safe }}</script>
+
+		<script>
+			// nav
+			var panel = new Pusha('.main-nav');
+			document.querySelector('.js-open-nav').addEventListener('click', panel.open);
+
+			// clamp
+			{% if pagetype == 'home' %}
+			document.addEventListener( "DOMContentLoaded", () => {
+			   let wrappers = document.querySelectorAll( ".latest-news_text" );
+			   let options = {
+			      watch: true
+			   };
+
+				 wrappers.forEach(function(wrapper) {
+				  new Dotdotdot( wrapper, options );
+				});
+			});
+			{% endif %}
+		</script>
+
+	</body>
+</html>

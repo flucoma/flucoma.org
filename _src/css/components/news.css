@@ -1,0 +1,19 @@
+.news {
+  padding-bottom: var(--base-spacing);
+}
+
+.news_item {
+  padding: var(--base-spacing);
+
+  @media (--for-laptop-up) {
+    padding-left: 0;
+
+    &:first-child {
+      padding-top: 0;
+    }
+  }
+}
+
+.news_heading {
+  margin-top: 0;
+}

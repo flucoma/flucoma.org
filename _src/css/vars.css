@@ -1,0 +1,20 @@
+:root {
+  --base-spacing: 6vw;
+
+  --mid-grey: #5D5D5D;
+  --green-grey: #D8E5DF;
+  --light-blue: #79c8fd;
+  --bright-blue: #1CA3FC;
+  --dark-blue: #024067;
+  --mid-blue: #0372B5;
+
+  --bg-colour: #fff;
+  --text-colour: var(--mid-grey);
+  --accent-colour: var(--bright-blue);
+}
+
+@custom-media --for-phone-only (max-width: 599px);
+@custom-media --for-tablet-portrait-up (min-width: 600px);
+@custom-media --for-tablet-landscape-up (min-width: 900px);
+@custom-media --for-laptop-up (min-width: 1200px);
+@custom-media --for-desktop-up (min-width: 1800px);

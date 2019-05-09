@@ -1,0 +1,16 @@
+.article {
+  padding: 0 var(--base-spacing) var(--base-spacing) var(--base-spacing);
+  line-height: 1.8;
+
+  & > p:first-of-type {
+    font-size: 1.3em;
+  }
+
+  @media (--for-laptop-up) {
+    padding-left: 0;
+
+    & :first-child {
+      margin-top: 0;
+    }
+  }
+}

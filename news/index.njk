@@ -1,0 +1,12 @@
+---
+layout: layouts/news.njk
+title: News
+---
+
+{%- for story in collections.news | reverse -%}
+  <article class="news_item" id="{{ story.data.title | slug }}">
+    <time class="news_date">{{ story.data.date | ddMMyy }}</time>
+    <h1 class="news_heading">{{ story.data.title }}</h1>
+    {{ story.templateContent | safe }}
+  </article>
+{%- endfor -%}
