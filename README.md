@@ -1,8 +1,10 @@
-# Page header
+# FluCoMa
+
+Static website, built with [11ty](https://www.11ty.io/), for [flucoma.org](http://www.flucoma.org/)
 
 ## Development
 
-Install:
+Install dependencies
 
 ```bash
 npm ci
