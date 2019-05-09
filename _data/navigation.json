@@ -1,8 +1,8 @@
 {
   "primary": {
-    "Download": "#",
-    "Learn": "#",
-    "Discuss": "#"
+    "Download": "/download",
+    "Learn": "http://www.flucoma.org/ke/",
+    "Discuss": "http://discourse.flucoma.org/"
   },
   "secondary": {
     "Home": "/",
