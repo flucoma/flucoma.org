@@ -94,22 +94,19 @@
 			</footer>
 		</div>
 
-		{% set js %}
+		<script>
+		{%- set js -%}
 	    {% include "js/scroll.js" %}
 			{% include "js/main-nav.js" %}
 			{% if pagetype == 'home' %}
 			  {% include "js/dotdotdot.js" %}
 			{% endif %}
-	  {% endset %}
-	  <script>{{ js | jsmin | safe }}</script>
-
-		<script>
 			// nav
 			var panel = new Pusha('.main-nav');
 			document.querySelector('.js-open-nav').addEventListener('click', panel.open);
 
-			// clamp
 			{% if pagetype == 'home' %}
+			// clamp
 			document.addEventListener( "DOMContentLoaded", () => {
 			   let wrappers = document.querySelectorAll( ".latest-news_text" );
 			   let options = {
@@ -121,7 +118,8 @@
 				});
 			});
 			{% endif %}
+	  {%- endset -%}
+	  {{ js | jsmin | safe }}
 		</script>
-
 	</body>
 </html>
