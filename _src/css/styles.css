@@ -3,6 +3,7 @@
 @import "elements.css";
 @import "components/page.css";
 @import "components/page-header.css";
+@import "components/nav-primary.css";
 @import "components/intro.css";
 @import "components/latest-news.css";
 @import "components/people.css";

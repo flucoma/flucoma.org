@@ -1,4 +1,9 @@
 .page-header {
+  padding: calc(var(--base-spacing) /2) 0;
+
+  @media (--for-tablet-portrait-up) {
+    padding: 0;
+  }
 
   @nest [data-type="home"] & {
     position: relative;
@@ -13,12 +18,18 @@
 .page-header_logo {
   position: absolute;
   z-index: -1;
-  width: 324px;
-  left: -46px;
-  top: -150px;
+  width: 110vw;
+  right: 11vw;
+  top: -46vw;
 
   & .descender {
     display: none;
+  }
+
+  @media (--for-tablet-portrait-up) {
+    width: 324px;
+    left: -46px;
+    top: -150px;
   }
 
   @nest [data-type="home"] & {
@@ -60,18 +71,24 @@
   mix-blend-mode: luminosity;
   padding: var(--base-spacing);
   display: block;
-  height: 150px;
+  height: 66vw;
+  box-sizing: border-box;
 
   & svg {
     height: 100%;
     max-width: 100%;
   }
 
+  @media (--for-tablet-portrait-up) {
+    height: 150px;
+    box-sizing: content-box;
+  }
+
   @nest [data-type="home"] & {
     height: 66vw;
     box-sizing: border-box;
 
-    @media (--for-tablet-landscape-up) {
+    @media (--for-tablet-landscape-up) and (orientation: landscape) {
       height: 100vh;
     }
 

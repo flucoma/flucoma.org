@@ -29,6 +29,7 @@ a {
   @nest .page_footer &,
         .main-nav &,
         .page_nav &,
+        .page_main-nav &,
         .page-header & {
     border: none;
   }

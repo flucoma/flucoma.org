@@ -1,15 +1,14 @@
 .intro {
-  padding: var(--base-spacing);
+  padding: calc(var(--base-spacing) /2) var(--base-spacing);
   font-size: 18px;
-  margin-top: var(--base-spacing);
 
   @media (--for-tablet-landscape-up) {
     position: relative;
     font-size: 20px;
-    margin-top: -10vh;
   }
 
   @media (--for-laptop-up) {
+    margin-top: -10vh;
     margin-top: -8em;
     margin-left: 50%;
     padding-left: calc(var(--base-spacing) /2);

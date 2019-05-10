@@ -29,10 +29,10 @@
 		<div class="page"{% if pagetype %} data-type="{{ pagetype }}"{% endif %}>
 
 			<nav class="page_nav">
-				<ul class="page_nav-primary">
+				<ul class="nav-primary">
 					{%- for title, link in navigation.primary -%}
-						<li class="page_nav-item">
-							<a class="page_nav-link" href="{{ link }}">{{ title }}</a>
+						<li class="nav-primary_item">
+							<a class="nav-primary_link" href="{{ link }}">{{ title }}</a>
 						</li>
 					{%- endfor -%}
 				</ul>
@@ -41,6 +41,17 @@
 
 			<main class="page_main">
 				{% include "components/page-header.njk" %}
+
+				<nav class="page_main-nav">
+					<ul class="nav-primary">
+						{%- for title, link in navigation.primary -%}
+							<li class="nav-primary_item">
+								<a class="nav-primary_link" href="{{ link }}">{{ title }}</a>
+							</li>
+						{%- endfor -%}
+					</ul>
+				</nav>
+
 				{{ layoutContent | safe }}
 			</main>
 
