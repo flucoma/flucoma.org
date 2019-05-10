@@ -76,6 +76,10 @@ body {
   @media (--for-tablet-portrait-up) {
     width: 64vw;
   }
+
+  @media (--for-tablet-landscape-up) {
+    width: 50vw;
+  }
 }
 
 .main-nav.pusha-panel--active ~ .pusha-push,
@@ -86,6 +90,10 @@ body {
 
   @media (--for-tablet-portrait-up) {
     transform: translateX(-64vw);
+  }
+
+  @media (--for-tablet-landscape-up) {
+  transform: translateX(-50vw);
   }
 }
 
