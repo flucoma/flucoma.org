@@ -36,20 +36,15 @@
     width: 110vw;
     left: auto;
     right: 11vw;
-    top: 20vh;
+    top: -46vw;
     transition: top 8s ease-out;
 
-    @nest [data-scroll] & {
+    @nest [data-scrolled] & {
       top: -60vw;
-    }
-
-    @nest [data-scroll="0"] & {
-      top: -46vw;
     }
   }
 
   @nest [data-type="article"] & {
-
 
     @media (--for-tablet-landscape-up) {
       width: 360px;
