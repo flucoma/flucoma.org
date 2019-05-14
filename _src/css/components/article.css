@@ -8,6 +8,7 @@
 
   @media (--for-laptop-up) {
     padding-left: 0;
+    padding-right: calc(var(--base-spacing) *1.5);
 
     & :first-child {
       margin-top: 0;

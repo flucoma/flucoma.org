@@ -61,7 +61,6 @@
     @media (--for-laptop-up) {
       display: grid;
       grid-template-columns: 1fr 2fr;
-      grid-column-gap: var(--base-spacing);
     }
   }
 }

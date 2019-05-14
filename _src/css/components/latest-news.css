@@ -31,6 +31,10 @@
   font-size: 16px;
 }
 
+.latest-news_date {
+  background-color: rgba(255,255,255,0.8);
+}
+
 .latest-news_tag {
   display: inline-block;
   line-height: 1.5;
@@ -43,6 +47,8 @@
 }
 
 .latest-news_text {
+  background-color: rgba(255,255,255,0.8);
+
   @media (--for-tablet-landscape-up) {
     height: 6em;
   }
@@ -59,4 +65,5 @@
 
 .latest-news_more {
   font-weight: 600;
+  background-color: rgba(255,255,255,0.8);
 }
