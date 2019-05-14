@@ -1,0 +1,19 @@
+.page-overlay {
+  z-index: 9;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #FFF;
+  visibility: hidden;
+  opacity: 0;
+  cursor: pointer;
+  transition: visibility 0s ease, opacity .2s ease;
+
+  @nest .offside-js--is-open & {
+    visibility: visible;
+    opacity: .7;
+    transition-delay: delay 0s;
+  }
+}

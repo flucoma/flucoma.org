@@ -22,12 +22,13 @@
 						</li>
 					{%- endfor -%}
 				</ul>
-				<button class="main-nav_close" data-close>Close menu</button>
+				<button class="main-nav_close js-close-nav" data-close>Close menu</button>
 			</nav>
 		</div>
 
-		<div class="page"{% if pagetype %} data-type="{{ pagetype }}"{% endif %}>
+		<div class="page-overlay"></div>
 
+		<div class="page"{% if pagetype %} data-type="{{ pagetype }}"{% endif %}>
 			<nav class="page_nav">
 				<ul class="nav-primary">
 					{%- for title, link in navigation.primary -%}
@@ -108,13 +109,17 @@
 		<script>
 		{%- set js -%}
 	    {% include "js/scroll.js" %}
-			{% include "js/main-nav.js" %}
+			{% include "js/vendor/offside.js" %}
 			{% if pagetype == 'home' %}
 			  {% include "js/vendor/dotdotdot.js" %}
 			{% endif %}
 			// nav
-			var panel = new Pusha('.main-nav');
-			document.querySelector('.js-open-nav').addEventListener('click', panel.open);
+			var myOffside = offside( '.main-nav', {
+				buttonsSelector: '.js-open-nav, .js-close-nav',
+				slidingSide: 'right',
+			});
+			var overlay = document.querySelector('.page-overlay')
+                .addEventListener( 'click', offside.factory.closeOpenOffside );
 
 			{% if pagetype == 'home' %}
 			// clamp

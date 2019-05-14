@@ -9,6 +9,10 @@ body {
   @media (--for-tablet-landscape-up) {
     font-size: 20px;
   }
+
+  &.offside-js--is-open {
+    overflow: hidden;
+  }
 }
 
 img {

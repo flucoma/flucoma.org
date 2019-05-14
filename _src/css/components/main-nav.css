@@ -1,158 +1,12 @@
-/* Edited version of Pusha v2.0.0 | MIT License | https://github.com/slavanga/pusha */
-body {
-  overflow-x: hidden;
-}
-
-.pusha-active,
-.pusha-active body {
-  overflow: hidden;
-}
-
-.pusha-wrapper,
-.pusha-push {
-  -webkit-transition: -webkit-transform 0.3s ease;
-  transition: -webkit-transform 0.3s ease;
-  transition: transform 0.3s ease;
-  transition: transform 0.3s ease, -webkit-transform 0.3s ease;
-}
-
-.pusha-wrapper {
-  position: relative;
-  z-index: 200;
-  height: 100%;
-  background-color: inherit;
+:root {
+  --main-nav-s-width: 260px;
+  --main-nav-m-width: 64vw;
+  --main-nav-l-width: 50vw;
 }
 
 .main-nav {
-  opacity: 0;
-  visibility: hidden;
-  position: fixed;
-  will-change: transform;
-}
-
-/* .pusha-panel--left {
-  width: 260px;
-  height: 100%;
-  background-color: #fff;
-  top: 0;
-  left: 0;
-  -webkit-transform: translateX(-100%);
-          transform: translateX(-100%);
-  z-index: 200;
-  -webkit-transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, -webkit-transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, -webkit-transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, transform 0.3s ease, -webkit-transform 0.3s ease;
-}
-
-.pusha-panel--left.pusha-panel--active ~ .pusha-push,
-.pusha-panel--left.pusha-panel--active ~ .pusha-blocker,
-.pusha-panel--left.pusha-panel--active ~ .pusha-wrapper {
-  -webkit-transform: translateX(260px);
-          transform: translateX(260px);
-} */
-
-/* .pusha-panel--left.pusha-panel--active {
-  -webkit-transition: opacity 0.05s, -webkit-transform 0.3s ease;
-  transition: opacity 0.05s, -webkit-transform 0.3s ease;
-  transition: opacity 0.05s, transform 0.3s ease;
-  transition: opacity 0.05s, transform 0.3s ease, -webkit-transform 0.3s ease;
-} */
-
-.main-nav {
-  width: 260px;
-  height: 100%;
   background-color: var(--dark-blue);
   color: #fff;
-  top: 0;
-  right: 0;
-  transform: translateX(100%);
-  z-index: 200;
-  -webkit-transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, -webkit-transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, -webkit-transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, transform 0.3s ease, -webkit-transform 0.3s ease;
-
-  @media (--for-tablet-portrait-up) {
-    width: 64vw;
-  }
-
-  @media (--for-tablet-landscape-up) {
-    width: 50vw;
-  }
-}
-
-.main-nav.pusha-panel--active ~ .pusha-push,
-.main-nav.pusha-panel--active ~ .pusha-blocker,
-.main-nav.pusha-panel--active ~ .pusha-wrapper {
-  -webkit-transform: translateX(-260px);
-          transform: translateX(-260px);
-
-  @media (--for-tablet-portrait-up) {
-    transform: translateX(-64vw);
-  }
-
-  @media (--for-tablet-landscape-up) {
-  transform: translateX(-50vw);
-  }
-}
-
-.main-nav.pusha-panel--active {
-  -webkit-transition: opacity 0.05s, -webkit-transform 0.3s ease;
-  transition: opacity 0.05s, -webkit-transform 0.3s ease;
-  transition: opacity 0.05s, transform 0.3s ease;
-  transition: opacity 0.05s, transform 0.3s ease, -webkit-transform 0.3s ease;
-}
-
-/* .pusha-panel--top {
-  width: 100%;
-  height: 260px;
-  background-color: #fff;
-  top: 0;
-  left: 0;
-  -webkit-transform: translateY(-100%);
-          transform: translateY(-100%);
-  z-index: 220;
-  -webkit-transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, -webkit-transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, -webkit-transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, transform 0.3s ease, -webkit-transform 0.3s ease;
-}
-
-.pusha-panel--top.pusha-panel--active {
-  -webkit-transition: opacity 0.05s, -webkit-transform 0.3s ease;
-  transition: opacity 0.05s, -webkit-transform 0.3s ease;
-  transition: opacity 0.05s, transform 0.3s ease;
-  transition: opacity 0.05s, transform 0.3s ease, -webkit-transform 0.3s ease;
-}
-
-.pusha-panel--bottom {
-  width: 100%;
-  height: 260px;
-  background-color: #fff;
-  bottom: 0;
-  left: 0;
-  -webkit-transform: translateY(100%);
-          transform: translateY(100%);
-  z-index: 220;
-  -webkit-transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, -webkit-transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, -webkit-transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.05s linear 0.3s, transform 0.3s ease, -webkit-transform 0.3s ease;
-}
-
-.pusha-panel--bottom.pusha-panel--active {
-  -webkit-transition: opacity 0.05s, -webkit-transform 0.3s ease;
-  transition: opacity 0.05s, -webkit-transform 0.3s ease;
-  transition: opacity 0.05s, transform 0.3s ease;
-  transition: opacity 0.05s, transform 0.3s ease, -webkit-transform 0.3s ease;
-} */
-
-.pusha-panel--active {
-  opacity: 1;
-  visibility: visible;
-  -webkit-transform: none !important;
-          transform: none !important;
 }
 
 .main-nav_content {
@@ -161,45 +15,8 @@ body {
   left: 0;
   right: 0;
   height: 100%;
-  overscroll-behavior-y: contain;
-  -webkit-overflow-scrolling: touch;
-  -webkit-tap-highlight-color: transparent;
-  outline: none;
 }
 
-.pusha-active .main-nav_content {
-  overflow-y: auto;
-}
-
-.pusha-blocker {
-  opacity: 0;
-  visibility: hidden;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 210;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.7);
-  -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  -webkit-transition: visibility 0s linear 0.3s, opacity 0.3s ease, -webkit-transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, opacity 0.3s ease, -webkit-transform 0.3s ease;
-  transition: visibility 0s linear 0.3s, transform 0.3s ease, opacity 0.3s ease;
-  transition: visibility 0s linear 0.3s, transform 0.3s ease, opacity 0.3s ease, -webkit-transform 0.3s ease;
-}
-
-.pusha-active .pusha-blocker {
-  opacity: 1;
-  visibility: visible;
-  -webkit-transition: opacity 0.3s ease, -webkit-transform 0.3s ease;
-  transition: opacity 0.3s ease, -webkit-transform 0.3s ease;
-  transition: transform 0.3s ease, opacity 0.3s ease;
-  transition: transform 0.3s ease, opacity 0.3s ease, -webkit-transform 0.3s ease;
-}
 
 .main-nav_close {
   position: absolute;
@@ -285,5 +102,95 @@ body {
     outline: none;
     padding-left: 1em;
     padding-right: 1em;
+  }
+}
+
+
+/* override offside width */
+.offside {
+  width: var(--main-nav-s-width);
+
+  @media (--for-tablet-portrait-up) {
+    width: var(--main-nav-m-width);
+  }
+
+  @media (--for-tablet-landscape-up) {
+    width: var(--main-nav-l-width);
+  }
+}
+
+.offside,
+.offside--left {
+  left: calc(0 - var(--main-nav-s-width));
+
+  @media (--for-tablet-portrait-up) {
+    left: calc(0 - var(--main-nav-m-width));
+  }
+
+  @media (--for-tablet-landscape-up) {
+    left: calc(0 - var(--main-nav-l-width));
+  }
+}
+
+.offside--right {
+  left: auto;
+  right: calc(0 - var(--main-nav-s-width));
+
+  @media (--for-tablet-portrait-up) {
+    right: calc(0 - var(--main-nav-m-width));
+  }
+
+  @media (--for-tablet-landscape-up) {
+    right: calc(0 - var(--main-nav-l-width));
+  }
+}
+
+.offside--left.is-open,
+.offside-js--is-left .offside-sliding-element {
+  transform: translate3d(var(--main-nav-s-width), 0, 0);
+
+  @media (--for-tablet-portrait-up) {
+    transform: translate3d(var(--main-nav-m-width), 0, 0);
+  }
+
+  @media (--for-tablet-landscape-up) {
+    transform: translate3d(var(--main-nav-l-width), 0, 0);
+  }
+}
+
+.offside--right.is-open,
+.offside-js--is-right .offside-sliding-element {
+  transform: translate3d(calc(0 - var(--main-nav-s-width)), 0, 0);
+
+  @media (--for-tablet-portrait-up) {
+    transform: translate3d(calc(0 - var(--main-nav-m-width)), 0, 0);
+  }
+
+  @media (--for-tablet-landscape-up) {
+    transform: translate3d(calc(0 - var(--main-nav-l-width)), 0, 0);
+  }
+}
+
+.no-csstransforms3d > .offside-js--is-left .offside-sliding-element {
+  right: calc(0 - var(--main-nav-s-width));
+
+  @media (--for-tablet-portrait-up) {
+    right: calc(0 - var(--main-nav-m-width));
+  }
+
+  @media (--for-tablet-landscape-up) {
+    right: calc(0 - var(--main-nav-l-width));
+  }
+}
+
+.no-csstransforms3d > .offside-js--is-right .offside-sliding-element {
+  left: calc(0 - var(--main-nav-s-width));
+
+  @media (--for-tablet-portrait-up) {
+    left: calc(0 - var(--main-nav-m-width));
+  }
+
+  @media (--for-tablet-landscape-up) {
+    left: calc(0 - var(--main-nav-l-width));
   }
 }
