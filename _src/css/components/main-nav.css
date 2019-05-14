@@ -93,15 +93,12 @@
   padding-left: 0.5em;
   padding-right: 0.5em;
   line-height: 1.5;
-  transition: padding 0.5s;
 
   &:hover,
   &:focus {
     background-color: #fff;
     color: var(--dark-blue);
     outline: none;
-    padding-left: 1em;
-    padding-right: 1em;
   }
 }
 
