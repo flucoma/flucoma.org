@@ -20,8 +20,8 @@
 
 .main-nav_close {
   position: absolute;
-  top: calc(var(--base-spacing) /2);
-  right: calc(var(--base-spacing) /2);
+  top: var(--base-spacing);
+  right: var(--base-spacing);
   display: inline-block;
   width: 32px;
   height: 32px;
@@ -63,8 +63,8 @@
   }
 
   @media (--for-tablet-landscape-up) {
-    width: 50px;
-    height: 50px;
+    top: calc(var(--base-spacing) /2);
+    right: calc(var(--base-spacing) /2);
   }
 }
 
