@@ -2,6 +2,7 @@
 @import "fonts.css";
 @import "elements.css";
 @import "components/page.css";
+@import "components/open-nav";
 @import "components/page-overlay.css";
 @import "components/page-header.css";
 @import "components/nav-primary.css";

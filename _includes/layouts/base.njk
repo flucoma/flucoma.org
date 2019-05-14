@@ -37,7 +37,7 @@
 						</li>
 					{%- endfor -%}
 				</ul>
-				<button class="page_nav-open js-open-nav">Open menu</button>
+				<button class="open-nav js-open-nav">Open menu</button>
 			</nav>
 
 			<main class="page_main">
@@ -55,6 +55,10 @@
 
 				{{ layoutContent | safe }}
 			</main>
+
+			<div class="page_nav-repeated">
+				<button class="open-nav js-open-nav">Open menu</button>
+			</div>
 
 			<footer class="page_footer" id="footer">
 				<div class="page_footer-contact">

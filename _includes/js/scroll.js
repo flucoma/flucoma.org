@@ -31,6 +31,13 @@ const storeScroll = () => {
   if (window.scrollY > 0) {
     document.documentElement.dataset.scrolled = true;
   }
+
+  // Add waypoint
+  if (window.scrollY > 500) {
+    document.documentElement.dataset.scroll500 = true;
+  } else {
+    document.documentElement.dataset.scroll500 = false;
+  }
 }
 
 // Listen for new scroll events, here we debounce our `storeScroll` function
