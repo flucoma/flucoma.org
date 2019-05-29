@@ -98,6 +98,18 @@
   font-style: normal;
 }
 
-.page_footer-copyright {
+.page_footer-credit
+{
+  @media (--for-tablet-landscape-up) {
+    grid-column-start: 3;
+  }
+}
+
+.page_footer-copyright-credit {
   margin-top: var(--base-spacing);
+  @media (--for-tablet-landscape-up) {
+    display: grid;
+    grid-template-columns: 1.9fr 0.1fr 1fr;
+    grid-column-gap: var(--base-spacing);
+  }
 }

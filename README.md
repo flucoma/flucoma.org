@@ -21,3 +21,7 @@ Build, to `_site`
 ```bash
 npm run build
 ```
+
+
+###### Design
+By [Sam Smith](https://samsmith.name/)
