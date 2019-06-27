@@ -9,6 +9,10 @@ Papers & Articles; Software & Code; Tutorials and How-Tos; Works & Artefacts
 
 > Publications marked with ___*___ were wholly supported by the project; those without were partially supported.
 
+___*___ Tremblay, P. A., Green, O., & Roma, G. (2019) "[From Collections to Corpora: Exploring Sounds through Fluid Decomposition](https://pure.hud.ac.uk/en/publications/from-collections-to-corpora-exploring-sounds-through-fluid-decomp)" In Proceedings of the ICMC-2019.
+
+___*___ Roma, G., Green, O., & Tremblay, P. A. (2019) "[Adaptive Mapping of Sound Collections for Data-driven Musical Interfaces.](https://pure.hud.ac.uk/en/publications/adaptive-mapping-of-sound-collections-for-data-driven-musical-int)" In Proceedings of the Conference on New Interfaces for Musical Expression 2019.
+
 ___*___ Roma, G., Green, O., Xambó, A., & Tremblay, P. A. (2018) "[A Javascript Library for Flexible Visualization of Audio Descriptors.](https://pure.hud.ac.uk/en/publications/a-javascript-library-for-flexible-visualization-of-audio-descript)" In Proceedings of the 4th Web Audio Conference, WAC-2018.
 
 ___*___ Roma, G., Green, O., & Tremblay, P. A. (2018) "[Stationary/transient audio separation using convolutional autoencoders.](https://pure.hud.ac.uk/en/publications/stationarytransient-audio-separation-using-convolutional-autoenco)" In Proceedings of the 21st International Conference on Digital Audio Effects (DAFx-18) (pp. 65-71).
@@ -31,7 +35,9 @@ Xambó, A., Roma, G., Shah, P., Tsuchiya, T., Freeman, J. & Magerko, B. (2018) "
 
 > Publications marked with ___*___ were wholly supported by the project; those without were partially supported.
 
-___*___ Roma, G., Green, O., Xambó, A., & Tremblay, P. A. (2018) [fav.js: a javascript library for flexible visualization of audio descriptors](https://github.com/flucoma/fav.js).. Huddersfield.
+___*___ Roma, G., Green, O., & Tremblay, P. A. (2019) "[Fluid Corpus Map: Adaptive Mapping of Sound Collections for Data-driven Musical Interfaces](https://github.com/flucoma/FluidCorpusMap)". Huddersfield.
+
+___*___ Roma, G., Green, O., Xambó, A., & Tremblay, P. A. (2018) [fav.js: a javascript library for flexible visualization of audio descriptors](https://github.com/flucoma/fav.js). Huddersfield.
 
 Roma, G., (2018) [FluidSound: an MIR-based sound browser](https://github.com/flucoma/FluidSound) for SuperCollider. Huddersfield.
 
