@@ -59,6 +59,8 @@ ___*___ Tremblay, P.A. (2017) "[Starting a MSP external project for XCode](http:
 
 Green, O. and Brennan, M. (2019) “[SCI★FI★HI★FI Machine Learning Remix](http://citizenbravo.com/research.html)” Online Generative Remix, University of Huddersfield and University of Glasgow
 
+Roma, G. (2018) "White Goods". Huddersfield.
+
 Bowers, J. & Green, O. (2018) "[All the Noises – Multichannel Composition / Installation for Multiple Machine Listeners](http://www.algorithmiclistening.org/seeds/oiA/)", SPIRAL, University of Huddersfield
 
 Green, O. (2018) "Neither the Time nor the Energy", (2018 AutoSlice Edition) Composition for Bowed Cardboard and Live Electronics, University of Huddersfield. (Originally composed 2015)
