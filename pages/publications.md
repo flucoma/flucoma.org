@@ -68,3 +68,10 @@ Green, O. (2018) "Neither the Time nor the Energy", (2018 AutoSlice Edition) Com
 Tremblay, P.A. (2017) "[Attempts at Stillness](http://www.rozhlas.cz/radiocustica_english/project/_zprava/pierre-alexandre-tremblay-attempts-at-stillness--1770593)". Huddersfield.
 
 Tremblay, P.A. (2018) "[Un fil rouge](https://electrocd.com/en/oeuvre/43326/Pierre_Alexandre_Tremblay/Un_fil_rouge)". Huddersfield.
+
+## Plenaries
+
+> As part of the project, we hold a series of plenaries where the project team and stakeholders can share ideas, practices and visions. With the support of the University of Huddersfield's Centre for Research in New Music (CeReNeM), we are happy to be able to share some of the presentations from these meetings.
+
+### Plenary 1: September 2018
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLLzzOXU4pTgJA_rs2g0feRRWaZuTtgKil" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
