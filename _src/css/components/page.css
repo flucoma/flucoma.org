@@ -109,7 +109,26 @@
   margin-top: var(--base-spacing);
   @media (--for-tablet-landscape-up) {
     display: grid;
-    grid-template-columns: 1.9fr 0.1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: var(--base-spacing);
   }
+}
+
+.page_footer-erc-logo
+{
+  @media (--for-laptop-up) {
+    padding: 0 calc(var(--base-spacing)/2);    
+  }  
+}
+
+.page_footer-eu-credit
+{
+  /* background: rgba(255, 255, 255, 0.8); */
+  font-size: 0.66em; 
+
+  max-width: 33vw; 
+  @media (--for-tablet-landscape-up) {
+    grid-column-start: 2;  
+    /* padding: 0 calc(var(--base-spacing)*2) 0 0;  */
+  } 
 }

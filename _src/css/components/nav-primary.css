@@ -16,7 +16,7 @@
 }
 
 .nav-primary_item {
-  display: none;
+  display: block;
   margin-top: 1.5vh;
   margin-bottom: 1.5vh;
 
