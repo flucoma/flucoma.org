@@ -8,7 +8,8 @@
   },
   "scripts": {
     "build": "npx gulp build & npx eleventy",
-    "dev": "npx gulp & npx eleventy --serve"
+    "dev": "npx gulp & npx eleventy --serve", 
+    "deploy": "npx gulp deploy"
   },
   "license": "UNLICENSED",
   "devDependencies": {
@@ -16,6 +17,7 @@
     "cssnano": "^4.1.10",
     "gulp": "^4.0.1",
     "gulp-postcss": "^8.0.0",
+    "gulp-rsync": "0.0.8",
     "luxon": "^1.12.1",
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.6.0",
