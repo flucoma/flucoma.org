@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Max (7+, 32/64-bit)", 
+    "links":[
+      {
+        "label": "Mac (10.7+) & Windows (10+)",               
+        "url":"https://huddersfield.box.com/shared/static/tcscjizd88ou5q5nsoa48dr9gx39q1ws.zip"
+      }
+    ]
+  }, 
+  {
+    "name": "Supercollider (3.10+, 64-bit)", 
+    "links":[
+      {
+        "label": "Mac OS (10.7+)", 
+        "url":"https://huddersfield.box.com/shared/static/a5h594wxnx4motz2n9cf3ocjqh8cv1h9.zip"
+      },
+      {       
+        "label":"Linux (built on Ubuntu 18.04)",
+        "url":"https://huddersfield.box.com/shared/static/ybd8mhzjicijba35vzjgvcd9yhyu3za0.gz"
+      }, 
+      {      
+        "label":"Windows (10+)",        
+        "url":"https://huddersfield.box.com/shared/static/l6o6z3jm8loa0jkgmqupeslvxfsy1huv.zip"
+      }     
+    ]
+  }, 
+  {
+    "name":"Pure Data (0.48+, 64-bit)",
+    "links":[
+      {       
+        "label":"Mac OS (10.7+)", 
+        "url":"https://huddersfield.box.com/shared/static/bmf9nqmqcxic93m7e6a7ftaztp060jub.zip"
+      }, 
+      {
+       "label":"Linux (built on Ubuntu 18.04)",
+       "url":"https://huddersfield.box.com/shared/static/79w9kvyge57h2iv6uhmlk7hs0s3jxq73.gz"
+      },     
+      {       
+        "label":"Windows (10+)",
+        "url":"https://huddersfield.box.com/shared/static/vhfothh5jfwjiq0n7dckmy3r58mp03vh.zip"
+      }     
+    ]
+  },
+  {
+    "name":"Command Line (64-bit)", 
+    "links":[
+      {        
+        "label":"Mac OS (10.7+)",
+        "url":"https://huddersfield.box.com/shared/static/1rplr9bvuymnkwq0xejfmrvgb8r6x9tl.zip"
+      },
+      {        
+        "label":"Linux (built on Ubuntu 18.04)", 
+        "url":"https://huddersfield.box.com/shared/static/468cxcstxbghfqi5q8szl29ayr8y562j.gz"
+      },
+      {
+        "label":"Windows (10+)",
+        "url":"https://huddersfield.box.com/shared/static/8g8iqe3wen6nz3y3dy80q1m6hcrpvwni.zip" 
+      } 
+   ]
+  }    
+]

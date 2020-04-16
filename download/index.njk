@@ -1,0 +1,24 @@
+---
+title: 'Download'
+permalink: /download/index.html
+layout: 'layouts/download.njk'
+---
+ 
+<h1>Fluid Decomposition Toolkit</h1>
+
+<p>The first release of software from the FluCoMa project is a toolkit of objects for decomposing and describing audio in musical creative coding environments.</p>
+
+<ul class="nav-release"> 
+{% for r in releases %}
+<li class ="nav-release_block">
+  <h4>{{r.name}}</h4>
+  <ul class="nav-download">
+  {% for l in r.links %}
+    <li class="nav-download_item">
+      <a class="nav-download_link" href="{{l.url}}">{{l.label}}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</li>
+{% endfor %}
+</ul>
