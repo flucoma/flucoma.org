@@ -1,8 +1,8 @@
 {
   "primary": {
-    "Download": "http://discourse.flucoma.org/t/beta02-is-here-with-multithreading/321",
-    "Learn": "http://learn.flucoma.org/",
-    "Discuss": "http://discourse.flucoma.org/"
+    "Download": "/download/",
+    "Learn": "https://learn.flucoma.org/",
+    "Discuss": "https://discourse.flucoma.org/"
   },
   "secondary": {
     "Home": "/",
