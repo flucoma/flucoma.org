@@ -1,0 +1,90 @@
+{
+"software":[
+  {
+    "name": "ReaCoMa", 
+    "by": "James Bradbury",
+    "url": "https://github.com/jamesb93/ReaCoMa",
+    "desc": "A set of extensions for the Reaper DAW using the FluCoMa command line interface", 
+    "year": "2019"
+  }, 
+  {
+    "name": "Confetti",
+    "by": "Rodrigo Constanzo",
+    "url": "https://github.com/rconstanzo/confetti",
+    "desc": "A suite of Max for Live devices", 
+    "year": "2020"
+  }
+],
+"music": [
+  {
+    "name": "RGR-Beyond-280919",
+    "by": "Raw Green Rust",
+    "url":"https://vimeo.com/389734773",
+    "desc": "Using the FluCoMa tools to for mutually-interconnected co-sampling",
+    "year": "2019"
+  }, 
+  {
+    "name": "SCI★FI★HI★FI Machine Learning Remix",
+    "by": "Owen Green and Matt Brennan",
+    "url":"http://citizenbravo.com/research.html",
+    "desc": "Generative remix of Brennan's Citizen Bravo album, Build A Thing Of Beauty",
+    "year":"2019"
+  }, 
+  {
+    "name": "All the Noises",
+    "by": "Owen Green and John Bowers",
+    "url":"http://www.algorithmiclistening.org/seeds/oiA/",
+    "desc": "Performance / installation for hijacked and repurposed machine listeners",
+    "year":"2018"
+  }, 
+  {
+    "name": "Neither the Time nor the Energy",
+    "by": "Owen Green",
+    "url":"https://www.youtube.com/watch?v=VExDlHD7o80",
+    "desc": "Live electronics with bowed cardboard",
+    "year":"2018"
+  }, 
+  {
+    "name": "Attempts at Stillness",
+    "by": "Pierre Alexandre Tremblay",
+    "url":"http://www.rozhlas.cz/radiocustica_english/project/_zprava/pierre-alexandre-tremblay-attempts-at-stillness--1770593",
+    "desc": "Studio composition",
+    "year":"2017"
+  }, 
+  {
+    "name": "Un fil rouge",
+    "by": "Pierre Alexandre Tremblay",
+    "url":"https://electrocd.com/en/oeuvre/43326/Pierre_Alexandre_Tremblay/Un_fil_rouge",
+    "desc": "Studio composition",
+    "year":"2018"
+  }, 
+  {
+    "name": "White Goods",
+    "by": "Gerard Roma",
+    "url":"https://hcmf.co.uk/event/hiss10-3/",
+    "desc": "Performance piece based on interactive corpus exploration",
+    "year":"2018"
+  },   
+  {
+    "name": "Map Mop",
+    "by": "Gerard Roma",
+    "url":"https://www.youtube.com/watch?list=PLQ9S5oqvpyWlo6DeiV43DFBMUWb1X22dV&v=Cwm_njSp1IQ",
+    "desc": "Audiovisual performance piece based on interactive corpus exploration",
+    "year":"2019"
+  }, 
+  {
+    "name": "(un)weave",
+    "by": "Pierre Alexandre Tremblay",
+    "url":"https://hcmf.co.uk/event/11-wet-ink-1/",
+    "desc": "For the Wet Ink Ensemble (flute, tenor saxophone, percussions including vibraphone, piano, violin, laptop) and further electronics",
+    "year":"2019"
+  },
+  {
+    "name": "Race to the Bottom",
+    "by": "Owen Green",
+    "url":"https://youtu.be/zeOm9w3ZJVc",
+    "desc": "Live electronics with bowed cardboard",
+    "year":"2019"
+  }
+]
+}

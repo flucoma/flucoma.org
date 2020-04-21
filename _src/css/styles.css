@@ -13,4 +13,7 @@
 @import "components/main-nav.css";
 @import "components/article.css";
 @import "components/news.css";
-@import "components/download.css"
+@import "components/download.css"; 
+@import "components/madewith.css";
+@import "components/media.css";
+@import "components/commissions.css";

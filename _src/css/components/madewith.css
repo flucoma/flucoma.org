@@ -1,0 +1,43 @@
+.madewith-block {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 0;
+  justify-content:flex-start;
+  align-items: flex-start;
+  margin-left: 0; 
+  
+}
+
+.madewith-item{
+  list-style: none; 
+  flex: 1 1 80%;
+  max-width: 80;
+  position: relative;
+  margin-bottom:1em;
+}
+
+.madewith-content{
+    margin-bottom: 0;
+    max-width: 66%;
+}
+
+.madewith-item p {
+  font-size: 0.8em;
+}
+
+.madewith-item a[href^="http://"]:after, 
+.madewith-item a[href^="https://"]:after{
+  content: "↗"; 
+  font-family: system-ui, -apple-system, sans-serif;
+  margin-left: 0.5rem;
+}
+
+.madewith-title{
+  margin-bottom: 0;
+}
+
+.madewith-author{
+  font-size: 0.8em; 
+  margin-bottom:0;
+}

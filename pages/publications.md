@@ -3,11 +3,13 @@ title: 'Publications'
 permalink: /publications/index.html
 ---
 
-Papers & Articles; Software & Code; Tutorials and How-Tos; Works & Artefacts
+Papers & Articles; Software & Code; Tutorials and How-Tos; 
 
-## Papers & Articles
+For musical outputs, and software that uses our tools, see also the [commissions](/commissions) and [made-with](/made-with) pages. 
 
 > Publications marked with ___*___ were wholly supported by the project; those without were partially supported.
+
+## Papers & Articles
 
 ___*___ Tremblay, P. A., Green, O., & Roma, G. (2019) "[From Collections to Corpora: Exploring Sounds through Fluid Decomposition](https://pure.hud.ac.uk/en/publications/from-collections-to-corpora-exploring-sounds-through-fluid-decomp)" In Proceedings of the ICMC-2019.
 
@@ -33,8 +35,6 @@ Xambó, A., Roma, G., Shah, P., Tsuchiya, T., Freeman, J. & Magerko, B. (2018) "
 
 > The [official project repository on GitHub](https://github.com/flucoma) will hold all official software linked to the project, as well as some work-in-progress. Below is the list of most publicly released, including some useful digital debris.
 
-> Publications marked with ___*___ were wholly supported by the project; those without were partially supported.
-
 ___*___ Roma, G., Green, O., & Tremblay, P. A. (2019) "[Fluid Corpus Map: Adaptive Mapping of Sound Collections for Data-driven Musical Interfaces](https://github.com/flucoma/FluidCorpusMap)". Huddersfield.
 
 ___*___ Roma, G., Green, O., Xambó, A., & Tremblay, P. A. (2018) [fav.js: a javascript library for flexible visualization of audio descriptors](https://github.com/flucoma/fav.js). Huddersfield.
@@ -49,29 +49,4 @@ ___*___ Tremblay, P.A. (2018) "[OfflineBufferProcesses: offline buffer processes
 
 ## Tutorials and How-Tos
 
-> Publications marked with ___*___  were wholly supported by the project; those without were partially supported.
-
 ___*___ Tremblay, P.A. (2017) "[Starting a MSP external project for XCode](http://www.no-tv.org/code/)". Huddersfield.
-
-## Works & Artefacts
-
-> Publications marked with ___*___ were wholly supported by the project; those without were partially supported.
-
-Green, O. and Brennan, M. (2019) “[SCI★FI★HI★FI Machine Learning Remix](http://citizenbravo.com/research.html)” Online Generative Remix, University of Huddersfield and University of Glasgow
-
-Roma, G. (2018) "White Goods". Huddersfield.
-
-Bowers, J. & Green, O. (2018) "[All the Noises – Multichannel Composition / Installation for Multiple Machine Listeners](http://www.algorithmiclistening.org/seeds/oiA/)", SPIRAL, University of Huddersfield
-
-Green, O. (2018) "Neither the Time nor the Energy", (2018 AutoSlice Edition) Composition for Bowed Cardboard and Live Electronics, University of Huddersfield. (Originally composed 2015)
-
-Tremblay, P.A. (2017) "[Attempts at Stillness](http://www.rozhlas.cz/radiocustica_english/project/_zprava/pierre-alexandre-tremblay-attempts-at-stillness--1770593)". Huddersfield.
-
-Tremblay, P.A. (2018) "[Un fil rouge](https://electrocd.com/en/oeuvre/43326/Pierre_Alexandre_Tremblay/Un_fil_rouge)". Huddersfield.
-
-## Plenaries
-
-> As part of the project, we hold a series of plenaries where the project team and stakeholders can share ideas, practices and visions. With the support of the University of Huddersfield's Centre for Research in New Music (CeReNeM), we are happy to be able to share some of the presentations from these meetings.
-
-### Plenary 1: September 2018
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLLzzOXU4pTgJA_rs2g0feRRWaZuTtgKil" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

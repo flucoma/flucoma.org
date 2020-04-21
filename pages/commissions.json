@@ -1,0 +1,33 @@
+{
+  "first":[
+      {
+        "by":"Lauren Hayes", 
+        "site": "https://laurensarahhayes.com/",
+        "title": "Moon via Spirit",
+        "url": "https://youtu.be/BzSRs_7S9cg", 
+        "note":"My work as an improviser been necessarily and profoundly influenced by playing music together with people in various scenarios ranging from the conservatoire to the primary school classroom; the family home to the day care centre; the stage to the lecture theatre; the hospital to the party; and the national park to the mine shaft. This improvisation is the culmination of these lived encounters, where in each case I have found more or less tolerance for ambiguity and risk taking, more or less exchange of ideas, and more or less openness to curiosity and the welcoming of new possibilities. While hybrid analogue/digital technology has been my means of exploring and sculpting sound, it is in these shared collective experiences that new modes of being and creating have truly been nourished."
+      },
+      {
+        "by":"Olivier Pasquet", 
+        "site": "https://www.opasquet.fr/",
+        "title": "Herbig-Haro (HH)",
+        "url": "https://youtu.be/qqR_gORRwRA", 
+        "note":"Man is dust only, the feather duster is held by himself. This thought points up many subjective inner convolutions like Kurt Gödel’s incompleteness theorem. These loops also matter beyond science and entail self-consciousness into existence. Herbig–Haro, HH, immerses the audience into a rhythmic dust storm. Particles aggregate together making a central sonic sculpture. Individual listeners are free to move around and hear different perspectives. This intangible generated object, made of moiré patterns, manipulates millions of grains set together according to sonic characteristics."
+      },
+      {
+        "by":"Rodrigo Constanzo", 
+        "site":"http://www.rodrigoconstanzo.com/",
+        "title": "Kaizo Snare",
+        "url": "https://youtu.be/MTWklm1oXWQ", 
+        "note":"A solo improvisation on drums and electronics, using old and new software instruments to expand an already expanded drum set."
+      },
+      {
+        "by":"Leafcutter John", 
+        "site": "http://leafcutterjohn.com/",
+        "title": "Line Crossing",
+        "url": "https://youtu.be/hYaZq1JCTQo", 
+        "note":"Line Crossing takes ideas commonly associated with generative visual art and applies them to the performance of musical material. Using a simple set of behaviours a graphical score is generated and used to control the playback and manipulation of sounds created by the performer. These sounds influence the score creation in real time which in turn affect the sonic output of the system creating an unpredictable feedback loop. "
+      }
+  ], 
+  "second":[]
+}
