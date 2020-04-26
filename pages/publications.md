@@ -19,9 +19,9 @@ ___*___ Roma, G., Green, O., & Tremblay, P. A. (2018) "[Stationary/transient aud
 
 Bowers, J. & Green, O. (2018) "[All the Noises: Hijacking Listening Machines for Performative Research](https://pure.hud.ac.uk/en/publications/all-the-noises-hijacking-listening-machines-for-performative-rese)". Proceedings of the Conference on New Interfaces for Musical Expression 2018.
 
-___*___ Green, O., Tremblay, P.A. & Roma, G. (2018) [Interdisciplinary Research as Musical Experimentation: A case study in musicianly approaches to sound corpora](http://www.ems-network.org/spip.php?article471). Electroacoustic Music Studies Network Conference.
+___*___ Green, O., Tremblay, P.A. & Roma, G. (2018) "[Interdisciplinary Research as Musical Experimentation: A case study in musicianly approaches to sound corpora](http://www.ems-network.org/spip.php?article471)". Electroacoustic Music Studies Network Conference.
 
-___*___ Roma, G., Green, O. & Tremblay, P.A. (2018) [Improving single-network single-channel separation of musical audio with convolutional layers](https://pure.hud.ac.uk/en/publications/improving-single-network-single-channel-separation-of-musical-aud)". In 14th International Conference on Latent Variable Analysis and Signal Separation (Lecture Notes in Computer Science (LNCS)). Springer Verlag.
+___*___ Roma, G., Green, O. & Tremblay, P.A. (2018) "[Improving single-network single-channel separation of musical audio with convolutional layers](https://pure.hud.ac.uk/en/publications/improving-single-network-single-channel-separation-of-musical-aud)". In 14th International Conference on Latent Variable Analysis and Signal Separation (Lecture Notes in Computer Science (LNCS)). Springer Verlag.
 
 Roma, G., Xambó, A. & Freeman, J. (2018) "[User-independent Accelerometer Gesture Recognition for Participatory Mobile Music](http://www.aes.org/e-lib/browse.cfm?elib=19582)". Journal of the Audio Engineering Society.
 
@@ -37,9 +37,9 @@ Xambó, A., Roma, G., Shah, P., Tsuchiya, T., Freeman, J. & Magerko, B. (2018) "
 
 ___*___ Roma, G., Green, O., & Tremblay, P. A. (2019) "[Fluid Corpus Map: Adaptive Mapping of Sound Collections for Data-driven Musical Interfaces](https://github.com/flucoma/FluidCorpusMap)". Huddersfield.
 
-___*___ Roma, G., Green, O., Xambó, A., & Tremblay, P. A. (2018) [fav.js: a javascript library for flexible visualization of audio descriptors](https://github.com/flucoma/fav.js). Huddersfield.
+___*___ Roma, G., Green, O., Xambó, A., & Tremblay, P. A. (2018) "[fav.js: a javascript library for flexible visualization of audio descriptors](https://github.com/flucoma/fav.js)". Huddersfield.
 
-Roma, G., (2018) [FluidSound: an MIR-based sound browser](https://github.com/flucoma/FluidSound) for SuperCollider. Huddersfield.
+Roma, G., (2018) "[FluidSound: an MIR-based sound browser](https://github.com/flucoma/FluidSound)" for SuperCollider. Huddersfield.
 
 ___*___ Tremblay, P.A. (2017) "[three utility scripts in Python](http://www.no-tv.org/code/) for Reaper". Huddersfield.
 
