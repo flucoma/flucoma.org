@@ -11,6 +11,10 @@ For musical outputs, and software that uses our tools, see also the [commissions
 
 ## Papers & Articles
 
+___*___ Hart, J. (2019) "[The Creative Process as Instrument Making: A Case Study of Four Electronic Musicians.](http://tcpm2019.fcsh.unl.pt/jacob-hart/)" Tracking the Creative Process in Music (TCPM 2019).
+
+___*___ Roma, G., Green, O., & Tremblay, P. A. (2019) "[Time Scale Modification of Audio Using Non-Negative Matrix Factorization.](https://www.dafx.de/paper-archive/2019/DAFx2019_paper_38.pdf)" In Proceedings of the 22nd International Conference on Digital Audio Effects (DAFx-19).
+
 ___*___ Tremblay, P. A., Green, O., & Roma, G. (2019) "[From Collections to Corpora: Exploring Sounds through Fluid Decomposition](https://pure.hud.ac.uk/en/publications/from-collections-to-corpora-exploring-sounds-through-fluid-decomp)" In Proceedings of the ICMC-2019.
 
 ___*___ Roma, G., Green, O., & Tremblay, P. A. (2019) "[Adaptive Mapping of Sound Collections for Data-driven Musical Interfaces.](https://pure.hud.ac.uk/en/publications/adaptive-mapping-of-sound-collections-for-data-driven-musical-int)" In Proceedings of the Conference on New Interfaces for Musical Expression 2019.
