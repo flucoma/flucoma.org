@@ -17,13 +17,13 @@ ___*___ Roma, G., Green, O., & Tremblay, P. A. (2019) "[Adaptive Mapping of Soun
 
 ___*___ Roma, G., Green, O., Xambó, A., & Tremblay, P. A. (2018) "[A Javascript Library for Flexible Visualization of Audio Descriptors.](https://pure.hud.ac.uk/en/publications/a-javascript-library-for-flexible-visualization-of-audio-descript)" In Proceedings of the 4th Web Audio Conference, WAC-2018.
 
-___*___ Roma, G., Green, O., & Tremblay, P. A. (2018) "[Stationary/transient audio separation using convolutional autoencoders.](https://pure.hud.ac.uk/en/publications/stationarytransient-audio-separation-using-convolutional-autoenco)" In Proceedings of the 21st International Conference on Digital Audio Effects (DAFx-18) (pp. 65-71).
+___*___ Roma, G., Green, O., & Tremblay, P. A. (2018) "[Stationary/transient Audio Separation Using Convolutional Autoencoders.](https://pure.hud.ac.uk/en/publications/stationarytransient-audio-separation-using-convolutional-autoenco)" In Proceedings of the 21st International Conference on Digital Audio Effects (DAFx-18) (pp. 65-71).
 
 Bowers, J. & Green, O. (2018) "[All the Noises: Hijacking Listening Machines for Performative Research](https://pure.hud.ac.uk/en/publications/all-the-noises-hijacking-listening-machines-for-performative-rese)". Proceedings of the Conference on New Interfaces for Musical Expression 2018.
 
-___*___ Green, O., Tremblay, P.A. & Roma, G. (2018) [Interdisciplinary Research as Musical Experimentation: A case study in musicianly approaches to sound corpora](http://www.ems-network.org/spip.php?article471). Electroacoustic Music Studies Network Conference.
+___*___ Green, O., Tremblay, P.A. & Roma, G. (2018) [Interdisciplinary Research as Musical Experimentation: A Case Study in Musicianly Approaches to Sound Corpora](http://www.ems-network.org/spip.php?article471). Electroacoustic Music Studies Network Conference.
 
-___*___ Roma, G., Green, O. & Tremblay, P.A. (2018) [Improving single-network single-channel separation of musical audio with convolutional layers](https://pure.hud.ac.uk/en/publications/improving-single-network-single-channel-separation-of-musical-aud)". In 14th International Conference on Latent Variable Analysis and Signal Separation (Lecture Notes in Computer Science (LNCS)). Springer Verlag.
+___*___ Roma, G., Green, O. & Tremblay, P.A. (2018) [Improving Single-Network Single-Channel Separation of Musical Audio with Convolutional Layers](https://pure.hud.ac.uk/en/publications/improving-single-network-single-channel-separation-of-musical-aud)". In 14th International Conference on Latent Variable Analysis and Signal Separation (Lecture Notes in Computer Science (LNCS)). Springer Verlag.
 
 Roma, G., Xambó, A. & Freeman, J. (2018) "[User-independent Accelerometer Gesture Recognition for Participatory Mobile Music](http://www.aes.org/e-lib/browse.cfm?elib=19582)". Journal of the Audio Engineering Society.
 
@@ -37,16 +37,16 @@ Xambó, A., Roma, G., Shah, P., Tsuchiya, T., Freeman, J. & Magerko, B. (2018) "
 
 ___*___ Roma, G., Green, O., & Tremblay, P. A. (2019) "[Fluid Corpus Map: Adaptive Mapping of Sound Collections for Data-driven Musical Interfaces](https://github.com/flucoma/FluidCorpusMap)". Huddersfield.
 
-___*___ Roma, G., Green, O., Xambó, A., & Tremblay, P. A. (2018) [fav.js: a javascript library for flexible visualization of audio descriptors](https://github.com/flucoma/fav.js). Huddersfield.
+___*___ Roma, G., Green, O., Xambó, A., & Tremblay, P. A. (2018) [fav.js: A Javascript Library for Flexible Visualization of Audio Descriptors](https://github.com/flucoma/fav.js). Huddersfield.
 
-Roma, G., (2018) [FluidSound: an MIR-based sound browser](https://github.com/flucoma/FluidSound) for SuperCollider. Huddersfield.
+Roma, G., (2018) [FluidSound: An MIR-based Sound Browser](https://github.com/flucoma/FluidSound) for SuperCollider. Huddersfield.
 
-___*___ Tremblay, P.A. (2017) "[three utility scripts in Python](http://www.no-tv.org/code/) for Reaper". Huddersfield.
+___*___ Tremblay, P.A. (2017) "[Three Utility Scripts in Python](http://www.no-tv.org/code/) for Reaper". Huddersfield.
 
-Tremblay, P.A. (2018) "[ipoke~ / IBufWr: an interpolated buffer writer](http://www.no-tv.org/code/) for Max, Pd and SuperCollider". Huddersfield.
+Tremblay, P.A. (2018) "[ipoke~ / IBufWr: An Interpolated Buffer Writer](http://www.no-tv.org/code/) for Max, Pd and SuperCollider". Huddersfield.
 
-___*___ Tremblay, P.A. (2018) "[OfflineBufferProcesses: offline buffer processes](http://www.no-tv.org/code/) for SuperCollider". Huddersfield.
+___*___ Tremblay, P.A. (2018) "[OfflineBufferProcesses: Offline Buffer Processes](http://www.no-tv.org/code/) for SuperCollider". Huddersfield.
 
 ## Tutorials and How-Tos
 
-___*___ Tremblay, P.A. (2017) "[Starting a MSP external project for XCode](http://www.no-tv.org/code/)". Huddersfield.
+___*___ Tremblay, P.A. (2017) "[Starting a MSP External Project for XCode](http://www.no-tv.org/code/)". Huddersfield.
