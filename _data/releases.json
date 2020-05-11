@@ -1,61 +1,65 @@
 [
   {
     "name": "Max (7+, 32/64-bit)", 
+    "source":"https://github.com/flucoma/flucoma-max/",
     "links":[
       {
         "label": "Mac (10.7+) & Windows (10+)",               
-        "url":"https://huddersfield.box.com/shared/static/tcscjizd88ou5q5nsoa48dr9gx39q1ws.zip"
+        "url":"https://github.com/flucoma/flucoma-max/releases/download/1.0.0-RC1/FluidCorpusManipulation_Max_Darwin_Windows_1_0_0_RC1.zip"
       }
     ]
   }, 
   {
     "name": "Supercollider (3.10+, 64-bit)", 
+    "source":"https://github.com/flucoma/flucoma-sc/",
     "links":[
       {
         "label": "Mac OS (10.7+)", 
-        "url":"https://huddersfield.box.com/shared/static/a5h594wxnx4motz2n9cf3ocjqh8cv1h9.zip"
+        "url":"https://github.com/flucoma/flucoma-sc/releases/download/1.0.0-RC1/FluidCorpusManipulation_Supercollider_Darwin_1_0_0_RC1.zip"
       },
       {       
         "label":"Linux (built on Ubuntu 18.04)",
-        "url":"https://huddersfield.box.com/shared/static/ybd8mhzjicijba35vzjgvcd9yhyu3za0.gz"
+        "url":"https://github.com/flucoma/flucoma-sc/releases/download/1.0.0-RC1/FluidCorpusManipulation_Supercollider_Linux_1_0_0-RC1.tar.gz"
       }, 
       {      
         "label":"Windows (10+)",        
-        "url":"https://huddersfield.box.com/shared/static/l6o6z3jm8loa0jkgmqupeslvxfsy1huv.zip"
+        "url":"https://github.com/flucoma/flucoma-sc/releases/download/1.0.0-RC1/FluidCorpusManipulation_Supercollider_Windows_1_0_0_RC1.zip"
       }     
     ]
   }, 
   {
     "name":"Pure Data (0.48+, 64-bit)",
+    "source": "https://github.com/flucoma/flucoma-pd/",
     "links":[
       {       
         "label":"Mac OS (10.7+)", 
-        "url":"https://huddersfield.box.com/shared/static/bmf9nqmqcxic93m7e6a7ftaztp060jub.zip"
+        "url":"https://github.com/flucoma/flucoma-pd/releases/download/1.0.0-RC1/FluidCorpusManipulation_PureData_Darwin_1_0_0_RC1.zip"
       }, 
       {
        "label":"Linux (built on Ubuntu 18.04)",
-       "url":"https://huddersfield.box.com/shared/static/79w9kvyge57h2iv6uhmlk7hs0s3jxq73.gz"
+       "url":"https://github.com/flucoma/flucoma-pd/releases/download/1.0.0-RC1/FluidCorpusManipulation_PureData_Linux_1_0_0-RC1.tar.gz"
       },     
       {       
         "label":"Windows (10+)",
-        "url":"https://huddersfield.box.com/shared/static/vhfothh5jfwjiq0n7dckmy3r58mp03vh.zip"
+        "url":"https://github.com/flucoma/flucoma-pd/releases/download/1.0.0-RC1/FluidCorpusManipulation_PureData_Windows_1_0_0_RC1.zip"
       }     
     ]
   },
   {
     "name":"Command Line (64-bit)", 
+    "source":"https://github.com/flucoma/flucoma-cli/",
     "links":[
       {        
         "label":"Mac OS (10.7+)",
-        "url":"https://huddersfield.box.com/shared/static/1rplr9bvuymnkwq0xejfmrvgb8r6x9tl.zip"
+        "url":"https://github.com/flucoma/flucoma-cli/releases/download/1.0.0-RC1/FluidCorpusManipulation_CLI_Darwin_1_0_0_RC1.zip"
       },
       {        
         "label":"Linux (built on Ubuntu 18.04)", 
-        "url":"https://huddersfield.box.com/shared/static/468cxcstxbghfqi5q8szl29ayr8y562j.gz"
+        "url":"https://github.com/flucoma/flucoma-cli/releases/download/1.0.0-RC1/FluidCorpusManipulation_CLI_Linux_1_0_0-RC1.tar.gz"
       },
       {
         "label":"Windows (10+)",
-        "url":"https://huddersfield.box.com/shared/static/8g8iqe3wen6nz3y3dy80q1m6hcrpvwni.zip" 
+        "url":"https://github.com/flucoma/flucoma-cli/releases/download/1.0.0-RC1/FluidCorpusManipulation_CLI_Windows_1_0_0_RC1.zip" 
       } 
    ]
   }    
