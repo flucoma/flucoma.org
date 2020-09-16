@@ -11,6 +11,8 @@ For musical outputs, and software that uses our tools, see also the [commissions
 
 ## Papers & Articles
 
+___*___ Roma, G, Green, O & Tremblay, PA. (2020) [Audio Morphing Using Matrix Decomposition and Optimal Transport](https://pure.hud.ac.uk/en/publications/audio-morphing-using-matrix-decomposition-and-optimal-transport). In Proceedings of DAFx 2020. Vienna, Austria.
+
 ___*___ Hart, J. (2020) [The Cartography and Cartology of a Performance.](https://www.goldsmithsrma2020.org/programme) 56th Royal Music Association Annual Conference (RMA 2020).
 
 ___*___ Hart, J. (2019) [The Creative Process as Instrument Making: A Case Study of Four Electronic Musicians.](http://tcpm2019.fcsh.unl.pt/jacob-hart/) Tracking the Creative Process in Music (TCPM 2019).
