@@ -11,6 +11,8 @@ For musical outputs, and software that uses our tools, see also the [commissions
 
 ## Papers & Articles
 
+___*___ Hart, J. (2020) [Identifier et analyser les potentialités sonores d'un instrument numérique](https://jim2020.sciencesconf.org/resource/page/id/13) Journées d'informatique musicale (JIM 2020). Strasbourg, France.
+
 ___*___ Roma, G, Green, O & Tremblay, PA. (2020) [Audio Morphing Using Matrix Decomposition and Optimal Transport](https://pure.hud.ac.uk/en/publications/audio-morphing-using-matrix-decomposition-and-optimal-transport). In Proceedings of DAFx 2020. Vienna, Austria.
 
 ___*___ Hart, J. (2020) [The Cartography and Cartology of a Performance.](https://www.goldsmithsrma2020.org/programme) 56th Royal Music Association Annual Conference (RMA 2020).
