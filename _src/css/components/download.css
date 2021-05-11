@@ -59,7 +59,7 @@
   transition: padding 0.5s;
   outline: none;
   line-height: 1;
-
+  flex-shrink: 0; 
   &:hover,
   &:focus {
     background-color: var(--mid-grey);
@@ -74,6 +74,27 @@
   }
 
 }
+
+.download-github {
+  border: none;  
+}
+
+.download-github img {
+  display: inline-block;
+  max-height: 3vh;
+  padding-left: 0.6em; 
+  padding-top:0.3em; 
+  padding-bottom:0.4em; 
+  padding-right: 0.6em; 
+  &:hover,
+  &:focus {
+    background-color: var(--mid-grey);
+    filter: invert(1);
+  }
+}
+
+
+
 
 .download p {
   
@@ -91,7 +112,11 @@
     margin-right: calc(var(--base-spacing)/2); 
 }
 
+.download h1 {
+  margin-top: 0.2em; 
+}
+
 .download h4 {
-  margin-top: 0.6em; 
+  margin-top: 0.4em; 
   margin-bottom: 0; 
 }
