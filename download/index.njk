@@ -4,9 +4,12 @@ permalink: /download/index.html
 layout: 'layouts/download.njk'
 ---
  
-<h1>Fluid Decomposition Toolkit</h1>
+<h1>Fluid Manipulation Toolkit</h1>
 
-<p>The first release of software from the FluCoMa project is a toolkit of objects for decomposing and describing audio in musical creative coding environments.</p>
+<p>The first release of software from the FluCoMa project was a toolkit of objects for decomposing and describing audio in musical creative coding environments.</p>
+<p>
+For Max and Supercollider this has since been augmented with a further suite of objects for manipulating collections of sonic data with tools by querying, matching, learning from and transforming. Pure Data and Command Line updates will follow. 
+</p>
 
 <ul class="nav-release"> 
 {% for r in releases %}
@@ -15,9 +18,12 @@ layout: 'layouts/download.njk'
   <ul class="nav-download">
   {% for l in r.links %}
     <li class="nav-download_item">
-      <a class="nav-download_link" href="{{l.url}}">{{l.label}}</a>
+      <a target="_blank" class="nav-download_link" href="{{l.url}}">{{l.label}}</a>
     </li>
   {% endfor %}
+    <!--  <li class="nav-download_item">
+    <a class="download-github"  href="{{r.source}}"><img src="/img/GitHub_Logo.png" alt_text="Get the source code from GitHub" /></a>
+        </li>-->
   </ul>
 </li>
 {% endfor %}
