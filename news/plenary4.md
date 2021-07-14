@@ -1,7 +1,7 @@
 ---
-title: 'title'
-date: 2018-10-24
+title: 'Plenary #4, Despite Covid'
+date: 2020-07-21
 tags: news
 ---
 
-plenary 4 online, constructive, looking forward to the gig
+We just finished the 4th plenary online, with constructive exchanges around the various affordances of the toolset: we really are looking forward to the gig!

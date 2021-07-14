@@ -1,20 +1,33 @@
---- 
-title: Commissioned Artworks 
+---
+title: Commissioned Artworks
 permalink: /commissions/index.html
 templateEngineOverride: md, njk
 ---
-  
-There are two sets of four commissions as part of the project, in order to ensure that the tools and ideas are subjected to some serious early interrogation from outside the team. The first wave of commissions worked with alpha versions of our first toolkit, and presented their work in autumn 2019. The second wave are working with alpha versions of the second toolkit, and are due to present their work early in 2021. 
+
+There are two sets of commissions as part of the project, in order to ensure that the tools and ideas are subjected to some serious early interrogation from outside the team. The first wave of commissions worked with alpha versions of our first toolkit, and presented their work in autumn 2019. The second wave are working with alpha versions of the second toolkit, and are due to present their work early in 2021.
 
 ## Concert 1
-##### November 21 2019 
+##### November 21 2019
 
-The first concert was generously hosted by [Huddersfield Contemporary Music Festival](https://hcmf.co.uk/), at Bates Mill, Huddersfield. We were also fortunate to have the concert broadcast by BBC Radio 3's New Music Show. 
+The first concert was hosted by [Huddersfield Contemporary Music Festival](https://hcmf.co.uk/), at Bates Mill, Huddersfield. We were also fortunate to have the concert broadcast by BBC Radio 3's New Music Show.
 
-As well as videos of the performances below, produced by [Angela Guyton](http://http://www.angelaguyton.com/), you can learn more about the pieces in [presentations given by the artists](/plenaries#plenary3-composertalks). 
-  
+As well as videos of the performances below, produced by [Angela Guyton](http://http://www.angelaguyton.com/), you can learn more about the pieces in [presentations given by the artists](/plenaries#plenary3-composertalks).
+
 <ul class="commissions-block">
 {% for c in first%}
   <li>{{ c | commission |safe }}</li>
 {% endfor %}
-</ul>  
+</ul>
+
+## Concert 2
+##### July 9 2021
+
+The second concert was hosted by [Dialogues Festival](https://digital.eca.ed.ac.uk/dialogues/), in the West Court of the Edinburgh College of Arts. Once again, we were fortunate to have parts of the concert broadcast by BBC Radio 3's New Music Show.
+
+The concert was run in hybrid modes, with (pandemic-safe) limited audience and live broadcast, with all live streams below. You can learn more about the pieces in [presentations given by the artists](/plenaries#plenary5-composertalks).
+
+<ul class="commissions-block">
+{% for c in second%}
+  <li>{{ c | commission |safe }}</li>
+{% endfor %}
+</ul>
