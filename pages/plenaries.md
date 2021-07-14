@@ -71,9 +71,9 @@ As the covid travel restrictions were still in place, the fifth plenary has been
 > Attendees:
 Alex Harker, Alice Eldridge, Andie Brown, Ben Hackbarth, Chris Kiefer, Gerard Roma, Hans Tutschku, Jacob Hart, James Bradbury, Jules Rawlinson, Lauren Hayes, Michael Zbyszynski, Olivier Pasquet, Owen Green, Peter Nelson, Pierre Alexandre Tremblay, Rebecca Fiebrink, Rodrigo Constanzo, Sam Pluta, Theodore Moore.
 
-Finally, the last plenary was held around the second concert of the project, held at the [Dialogues Festival](https://digital.eca.ed.ac.uk/dialogues/), in the West Court of the Edinburgh College of Art. We took the opportunity to reflect on the project so far, and how we could widen the community and sustain the ecosystem beyond the project.
+Finally, the last plenary was held around the second concert of the project, as part of the [Dialogues Festival](https://digital.eca.ed.ac.uk/dialogues/), in the West Court of the Edinburgh College of Art. We took the opportunity to reflect on the project so far, and how we could widen the community and sustain the ecosystem beyond the project.
 
-Once again we were joined by two fantastic specialists in our field, who share their reflection on machine learning for musicians:
+Once again we were joined by two fantastic specialists in our field, who shared their reflections on machine learning for musicians:
 
 <div class="embed-video">
 <iframe src="https://www.youtube.com/embed/videoseries?list=PLLzzOXU4pTgLsrmndhuHzzHbhyjKXDPNG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
