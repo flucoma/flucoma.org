@@ -1,6 +1,6 @@
 ---
 name: 'Owen Green'
-introduction: "Composer-improviser, theorist and builder of strange, hybrid instruments/pieces, Dr Green is the Research Fellow in Creative Coding on FluCoMa."
+introduction: "Composer-improviser, theorist and builder of strange, hybrid instruments/pieces, Dr Green is a Senior Research Fellow in Creative Coding on FluCoMa."
 website: 'http://www.owengreen.net/'
-weighting: 5
+weighting: 7
 ---
