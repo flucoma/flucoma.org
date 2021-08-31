@@ -3,13 +3,15 @@ title: 'Publications'
 permalink: /publications/index.html
 ---
 
-Papers & Articles; Software & Code; Tutorials and How-Tos; 
+Papers & Articles; Software & Code; Tutorials and How-Tos;
 
-For musical outputs, and software that uses our tools, see also the [commissions](/commissions) and [made-with](/made-with) pages. 
+For musical outputs, and software that uses our tools, see also the [commissions](/commissions) and [made-with](/made-with) pages.
 
 > Publications marked with ___*___ were wholly supported by the project; those without were partially supported.
 
 ## Papers & Articles
+
+___*___ Tremblay, P. A., Roma, G., & Green, O. (2021) Digging it: Programmatic Data Mining as Musicking. In Proceedings of the ICMC-2021.
 
 ___*___ Hart, J. (2020) [Identifier et analyser les potentialités sonores d'un instrument numérique](https://jim2020.sciencesconf.org/resource/page/id/13) Journées d'informatique musicale (JIM 2020). Strasbourg, France.
 
