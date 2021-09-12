@@ -49,7 +49,7 @@ Xambó, A., Roma, G., Shah, P., Tsuchiya, T., Freeman, J. & Magerko, B. (2018) [
 
 > The [official project repository on GitHub](https://github.com/flucoma) will hold all official software linked to the project, as well as some work-in-progress. Below is the list of most publicly released, including some useful digital debris.
 
-___*___ Roma, G., Green, O., & Tremblay, P.A. (2019) [Fluid Corpus MaP.A.aptive Mapping of Sound Collections for Data-driven Musical Interfaces](https://github.com/flucoma/FluidCorpusMap). Huddersfield.
+___*___ Roma, G., Green, O., & Tremblay, P.A. (2019) [FluidCorpusMap. Adaptive Mapping of Sound Collections for Data-driven Musical Interfaces](https://github.com/flucoma/FluidCorpusMap). Huddersfield.
 
 ___*___ Roma, G., Green, O., Xambó, A., & Tremblay, P.A. (2018) [fav.js: A Javascript Library for Flexible Visualization of Audio Descriptors](https://github.com/flucoma/fav.js). Huddersfield.
 
