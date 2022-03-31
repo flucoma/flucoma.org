@@ -11,6 +11,8 @@ For musical outputs, and software that uses our tools, see also the [commissions
 
 ## Papers & Articles
 
+___*___ Roma, G, Xambo, A, Green, O, & Tremblay, PA. (2021) [A General Framework for Visualization of Sound Collections in Musical Interfaces](https://www.mdpi.com/2076-3417/11/24/11926). In Applied Sciences; Volume 11; Issue 24; Pages: 11926
+
 ___*___ Roma, G, Tremblay, P.A., & Green, O. (2021) [Graph-Based Audio Looping And Granulation](https://pure.hud.ac.uk/en/publications/graph-based-audio-looping-and-granulation). In Proceedings of DAFx 2021. Vienna, Austria.
 
 ___*___ Tremblay, P.A., Roma, G., & Green, O. (2021) [Digging it: Programmatic Data Mining as Musicking.](https://pure.hud.ac.uk/en/publications/digging-it-programmatic-data-mining-as-musicking) In Proceedings of the ICMC-2021.
