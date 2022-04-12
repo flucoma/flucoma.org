@@ -20,7 +20,7 @@
     ]
   }, 
   {
-    "name":"Pure Data (0.48+, 64-bit)",
+    "name":"Pure Data (0.52+, 64-bit)",
     "source": "https://github.com/flucoma/flucoma-pd/",
     "links":[
       {       
