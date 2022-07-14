@@ -5,6 +5,8 @@ permalink: /publications/index.html
 
 Papers & Articles; Software & Code; Tutorials and How-Tos;
 
+If you are wondering how to cite us, visit [this section of the 'About' page](/about#cite)
+
 For musical outputs, and software that uses our tools, see also the [commissions](/commissions) and [made-with](/made-with) pages.
 
 > Publications marked with ___*___ were wholly supported by the project; those without were partially supported.
@@ -52,6 +54,8 @@ Xambó, A., Roma, G., Shah, P., Tsuchiya, T., Freeman, J. & Magerko, B. (2018) [
 ## Software & Code
 
 > The [official project repository on GitHub](https://github.com/flucoma) will hold all official software linked to the project, as well as some work-in-progress. Below is the list of most publicly released, including some useful digital debris.
+
+___*___ Tremblay, P.A., Green, O., Roma, G., Bradbury, J., Moore, T., Hart, J., & Harker, A. (2022) The Fluid Corpus Manipulation Toolbox (v.1). Zenodo. [doi: /10.5281/zenodo.6834643](https://doi.org/10.5281/zenodo.6834643)
 
 ___*___ Roma, G., Green, O., & Tremblay, P.A. (2019) [FluidCorpusMap. Adaptive Mapping of Sound Collections for Data-driven Musical Interfaces](https://github.com/flucoma/FluidCorpusMap). Huddersfield.
 

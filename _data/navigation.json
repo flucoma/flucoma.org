@@ -7,6 +7,7 @@
   "secondary": {
     "Home": "/",
     "About": "/about",
+    "How to Cite": "/about#cite",
     "News": "/news",
     "People": "/#people",
     "Publications": "/publications",
