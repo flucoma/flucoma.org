@@ -17,7 +17,9 @@ FluCoMa is based within the [Department of Music and Music Technology](https://r
 
 Please cite us if you use the [software](/download) and/or the [learning resources](https://learn.flucoma.org). 
 
-For any use of the toolkit, we would appreciate citations to the following reference:
+When used in an artistic context, a simple line thanking us is appreciated. A tag on social media ([Facebook](https://www.facebook.com/flucoma), [Twitter](https://twitter.com/flucoma), [Instagram](https://www.instagram.com/flucoma/)) is also welcome.
+
+In more academic settings, for any use of the toolkit, we would appreciate citations to the following reference:
 
 *Tremblay, P.A., Green, O., Roma, G., Bradbury, J., Moore, T., Hart, J., & Harker, A. (2022)* **The Fluid Corpus Manipulation Toolbox (v.1).** Zenodo. [doi: /10.5281/zenodo.6834643](https://doi.org/10.5281/zenodo.6834643)
 
