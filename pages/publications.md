@@ -13,6 +13,14 @@ For musical outputs, and software that uses our tools, see also the [commissions
 
 ## Papers & Articles
 
+___*___ Green, O., Tremblay, P.A., Moore, T., Bradbury, J., Hart, J., Harker, A., & Roma, G. (2022) [Architecture about Dancing: Creating a Cross Environment, Cross Domain Framework for Creative Coding Musicians](https://pure.hud.ac.uk/en/activities/architecture-about-dancing-creating-a-cross-environment-cross-dom). Presentation. 33rd Annual Workshop of the Psychology of Programming Interest Group (PPIG). Milton Keynes, United Kingdom.
+
+___*___ Tremblay, P.A. (2022) [The Fluid Corpus Manipulation Project: past, present, future](https://pure.hud.ac.uk/en/activities/the-fluid-corpus-manipulation-project-past-present-future) CHIME Network. United Kingdom.
+
+___*___ Tremblay, P.A., Green, O., Bradbury, J., & Moore, T. (2022) [Teaching Critical Machine Listening and Machine Learning with FluCoMa](https://pure.hud.ac.uk/en/activities/teaching-critical-machine-listening-and-machine-learning-with-flu). Workshop. ICMC-2022. Limerick, Ireland.
+
+___*___ Tremblay, P.A. (2022) [Beyond cohabitation: Towards a rich interdisciplinarity in music-technology research](https://pure.hud.ac.uk/en/activities/beyond-cohabitation-towards-a-rich-interdisciplinarity-in-music-t) Keynote Address.CIRMMT Conference: Le son du futur - Le futur du son. Montreal, Canada.
+
 ___*___ Tremblay, P.A., Roma, G., & Green, O. (2022) [Enabling Programmatic Data Mining as Musicking: The Fluid Corpus Manipulation Toolkit](https://direct.mit.edu/comj/article/45/2/9/111383/Enabling-Programmatic-Data-Mining-as-Musicking-The). Computer Music Journal 2022; 45 (2): 9–23. doi: https://doi.org/10.1162/comj_a_00600
 
 ___*___ Roma, G, Xambo, A, Green, O, & Tremblay, PA. (2021) [A General Framework for Visualization of Sound Collections in Musical Interfaces](https://www.mdpi.com/2076-3417/11/24/11926). In Applied Sciences; Volume 11; Issue 24; Pages: 11926
@@ -20,6 +28,8 @@ ___*___ Roma, G, Xambo, A, Green, O, & Tremblay, PA. (2021) [A General Framework
 ___*___ Roma, G, Tremblay, P.A., & Green, O. (2021) [Graph-Based Audio Looping And Granulation](https://pure.hud.ac.uk/en/publications/graph-based-audio-looping-and-granulation). In Proceedings of DAFx 2021. Vienna, Austria.
 
 ___*___ Tremblay, P.A., Roma, G., & Green, O. (2021) [Digging it: Programmatic Data Mining as Musicking.](https://pure.hud.ac.uk/en/publications/digging-it-programmatic-data-mining-as-musicking) In Proceedings of the ICMC-2021.
+
+___*___ Tremblay, P.A. (2020) [A Beautiful Mess: Tales of in-between-ness in SMC research](https://pure.hud.ac.uk/en/activities/a-beautiful-mess-tales-of-in-between-ness-in-smc-research) Keynote Address. Sound and Music Computing Conference (SMC 2020). Torino, Italy.
 
 ___*___ Hart, J. (2020) [Identifier et analyser les potentialités sonores d'un instrument numérique](https://jim2020.sciencesconf.org/resource/page/id/13) Journées d'informatique musicale (JIM 2020). Strasbourg, France.
 
