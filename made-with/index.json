@@ -13,6 +13,27 @@
     "url": "https://github.com/rconstanzo/confetti",
     "desc": "A suite of Max for Live devices",
     "year": "2020"
+  },
+  {
+    "name": "SP-Tools",
+    "by": "Rodrigo Constanzo",
+    "url": "https://github.com/rconstanzo/SP-tools",
+    "desc": "Machine learning tools for low latency real-time performance",
+    "year": "2022"
+  },
+  {
+    "name": "Mosaique",
+    "by": "Dominic Thibault et al",
+    "url": "https://lfo-lab.ca/mosaique",
+    "desc": "A suite of Max for Live devices",
+    "year": "2021"
+  },
+  {
+    "name": "Serge Modular Archive Instrument",
+    "by": "Jean Brazeau and Ted Moore",
+    "url": "https://github.com/tedmoore/Serge-Modular-Archive-Instrument",
+    "desc": "a sample-based computer emulation of selected patches on the vintage Serge Modular instrument",
+    "year": "2021"
   }
 ],
 "music": [
@@ -105,6 +126,83 @@
     "url": "https://youtu.be/zeOm9w3ZJVc",
     "desc": "Live electronics with bowed cardboard",
     "year": "2019"
+  },
+  {
+    "name": "Saccades",
+    "by": "Ted Moore",
+    "url": "https://www.tedmooremusic.com/works/saccades/",
+    "desc": "A piece for saxophone, electronics, tape, & video",
+    "year": "2022"
+  },
+  {
+    "name": "Quartet",
+    "by": "Ted Moore",
+    "url": "https://www.tedmooremusic.com/works/quartet/",
+    "desc": "A quartet for ensemble and video processing",
+    "year": "2021"
+  },
+  {
+    "name": "Improvisation with/against Machine Learners",
+    "by": "Owen Green and Pierre Alexandre Tremblay",
+    "url": "https://www.youtube.com/watch?v=rMH-H1OuDqs",
+    "desc": "A first duet performance with two of the founding members of the project",
+    "year": "2022"
+  },
+  {
+    "name": "Portrait d’un ami singulier et pluriel",
+    "by": "Pierre Alexandre Tremblay",
+    "url": "https://electrocd.com/en/oeuvre/52463/pierre-alexandre-tremblay/portrait-d-un-ami-singulier-et",
+    "desc": "A piece for electric guitar and electronics",
+    "year": "2022-3"
+  },
+  {
+    "name": "Les espaces négatifs",
+    "by": "Pierre Alexandre Tremblay",
+    "url": "https://electrocd.com/en/oeuvre/52148/pierre-alexandre-tremblay/les-espaces-negatifs",
+    "desc": "A piece for large loudspeaker array",
+    "year": "2022-3"
+  },
+  {
+    "name": "Rapid Enganglements",
+    "by": "Helen Bledsoe, Carl Rosman and Owen Green",
+    "url": "https://www.youtube.com/watch?v=WJueCc0upc4",
+    "desc": "A trio for flute, clarinet, Partch instruments and laptop.",
+    "year": "2023"
+  },
+  {
+    "name": "Experimenta 28.9.19",
+    "by": "Raw Green Rust",
+    "url": "https://rawgreenrust.bandcamp.com/track/raw-green-rust-experimenta-2019",
+    "desc": "A live set at the 'Beyond Future Design' Symposium, Experimenta, Heilbronn",
+    "year": "2019"
+  },
+  {
+    "name": "Sonorities 21.4.18",
+    "by": "Raw Green Rust",
+    "url": "https://rawgreenrust.bandcamp.com/track/raw-green-rust-sonorities-2018",
+    "desc": "A live set at the Sonorities festival, Belfast",
+    "year": "2018"
+  },
+  {
+    "name": "Inability to End",
+    "by": "Raw Green Rust",
+    "url": "https://rawgreenrust.bandcamp.com/album/inability-to-end",
+    "desc": "A studio album of the trio",
+    "year": "2022"
+  },
+  {
+    "name": "Interferences",
+    "by": "James Bradbury",
+    "url": "https://jamesbradbury.bandcamp.com/album/interferences",
+    "desc": "A studio album made from a corpus of electromagnetic sounds",
+    "year": "2021-2"
+  },
+  {
+    "name": "Extension",
+    "by": "James Bradbury",
+    "url": "https://jamesbradbury.bandcamp.com/album/extension",
+    "desc": "A collection of responses to the two pieces in the previous album, Interferences",
+    "year": "2022"
   }
 ]
 }
