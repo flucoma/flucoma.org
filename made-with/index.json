@@ -13,6 +13,13 @@
     "url": "https://github.com/rconstanzo/confetti",
     "desc": "A suite of Max for Live devices",
     "year": "2020"
+  },
+  {
+    "name": "MIRLCAuto",
+    "by": "Anna Xambó",
+    "url": "https://mirlca.dmu.ac.uk/",
+    "desc": "A Virtual Agent for Music Information Retrieval in Live Coding",
+    "year": "2020"
   }
 ],
 "music": [
@@ -105,6 +112,20 @@
     "url": "https://youtu.be/zeOm9w3ZJVc",
     "desc": "Live electronics with bowed cardboard",
     "year": "2019"
+  },
+  {
+    "name": "detuning a tuning",
+    "by": "Anna Xambó",
+    "url": "https://carpaltunnel.cat/releases/CT005.php",
+    "desc": "An album on Carpal Tunnel",
+    "year": "2023"
+  },
+  {
+    "name": "Dirty Dialogues",
+    "by": "Dirty Electronics Ensemble, Jon.Ogara, and Anna Xambó",
+    "url": "https://www.panyrosasdiscos.org/pyr313-dirty-electronics-ensemble-jon-ogara-and-anna-xambo-dirty-dialogues/",
+    "desc": "A live album on pan y rosas discos",
+    "year": "2021"
   }
 ]
 }
