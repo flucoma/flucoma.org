@@ -13,7 +13,7 @@
   },
   "license": "UNLICENSED",
   "devDependencies": {
-    "@11ty/eleventy": ">=1.0.0",
+    "@11ty/eleventy": "^3.0.0",
     "cssnano": ">=5.1.7",
     "gulp": ">=4.0.2",
     "gulp-postcss": ">=9.0.1",
