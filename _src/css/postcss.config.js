@@ -6,8 +6,7 @@ module.exports = {
       noIsPseudoSelector: true,
       edition:'2021'
     },
-    'postcss-preset-env': {
-      stage: 1,
+    'postcss-preset-env': {      
       features: {        
          'nesting-rules': true,
         'custom-media-queries': true
