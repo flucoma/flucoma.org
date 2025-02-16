@@ -15,8 +15,11 @@ In the flucoma.org directory:
 Step 0. Install dependencies:
 
 ```bash
+npm install
 npm ci
 ```
+
+note: there will be warnings of deprecations and vulnerabilities, with recommendations to 'fix' them. Please ignore.
 
 ### Run dev server, at [localhost:8080](http://localhost:8080/)
 
