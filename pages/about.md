@@ -11,7 +11,7 @@ FluCoMa proposes to tackle this issue by empowering techno-fluent aesthetic rese
 
 As with previous [HISS](http://www.thehiss.org/) projects, FluCoMa will deliver its findings open source, in the form of software (standalone and extensions) with extensive documentation and examples, as well as the underlying libraries in C++. Moreover, musical works commissioned to challenge these new methodologies will be released, through concerts and plenaries on surrounding subjects, and documented in academic papers. A users forum will also be at the centre of this emerging research community.
 
-FluCoMa is based within the [Department of Music and Music Technology](https://research.hud.ac.uk/music/), with its [Centre for Research in New Music](http://www.cerenem.org/), on the Queensgate Campus of the [University of Huddersfield](http://www.hud.ac.uk/). This project has received funding from the [European Union's Horizon 2020 research and innovation programme](https://erc.europa.eu/) under grant agreement No 725899.
+FluCoMa was based within the [Department of Music and Music Technology](https://research.hud.ac.uk/music/), with its [Centre for Research in New Music](http://www.cerenem.org/), on the Queensgate Campus of the [University of Huddersfield](http://www.hud.ac.uk/). This project has received funding from the [European Union's Horizon 2020 research and innovation programme](https://erc.europa.eu/) under grant agreement No 725899. Since September 2024, its hosting is supported by the [Conservatorio della Svizzera italiana's research department](https://www.conservatorio.ch/en/university-of-music/research).
 
 ### <a name="cite"></a>How To Cite
 
