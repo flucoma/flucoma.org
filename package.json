@@ -25,5 +25,8 @@
     "postcss-nesting": "^13.0.1",
     "postcss-preset-env": "^10.1.4",
     "uglify-es": ">=3.3.10"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.8"
   }
 }
