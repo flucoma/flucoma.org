@@ -19,14 +19,12 @@
     "gulp": "^5.0.0",
     "gulp-postcss": "^10.0.0",
     "gulp-rsync": "^0.1.0",
+    "gulp-util": "^3.0.8",
     "luxon": ">=2.3.1",
     "postcss": "8.5",
     "postcss-import": "^16.1.0",
     "postcss-nesting": "^13.0.1",
     "postcss-preset-env": "^10.1.4",
     "uglify-es": ">=3.3.10"
-  },
-  "dependencies": {
-    "gulp-util": "^3.0.8"
   }
 }
