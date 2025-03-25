@@ -13,13 +13,27 @@ For musical outputs, and software that uses our tools, see also the [commissions
 
 ## Papers & Articles
 
+___*___ Moore, T., Bradbury, J., Tremblay, P.A., Green, O. (2025) [Making Machine Learning Musical: Reflections on a Year of Teaching FluCoMa](https://seamusonline.org/wp-content/uploads/2025/01/Journal_SEAMUS_vol_32_rev_1.pdf). In Journal SEAMUS, Volume 32, Number 1–2, 2021. USA.
+
+___*___ Green, O., Tremblay, P.A., Moore, T., Bradbury, J., Hart, J., Harker, A., & Roma, G. (2022) [Architecture about Dancing: Creating a Cross Environment, Cross Domain Framework for Creative Coding Musicians](https://pure.hud.ac.uk/en/activities/architecture-about-dancing-creating-a-cross-environment-cross-dom). Presentation. 33rd Annual Workshop of the Psychology of Programming Interest Group (PPIG). Milton Keynes, United Kingdom.
+
+___*___ Tremblay, P.A. (2022) [The Fluid Corpus Manipulation Project: past, present, future](https://pure.hud.ac.uk/en/activities/the-fluid-corpus-manipulation-project-past-present-future) CHIME Network. United Kingdom.
+
+___*___ Tremblay, P.A., Green, O., Bradbury, J., & Moore, T. (2022) [Teaching Critical Machine Listening and Machine Learning with FluCoMa](https://pure.hud.ac.uk/en/activities/teaching-critical-machine-listening-and-machine-learning-with-flu). Workshop. ICMC-2022. Limerick, Ireland.
+
+___*___ Tremblay, P.A. (2022) [Beyond cohabitation: Towards a rich interdisciplinarity in music-technology research](https://pure.hud.ac.uk/en/activities/beyond-cohabitation-towards-a-rich-interdisciplinarity-in-music-t) Keynote Address.CIRMMT Conference: Le son du futur - Le futur du son. Montreal, Canada.
+
 ___*___ Tremblay, P.A., Roma, G., & Green, O. (2022) [Enabling Programmatic Data Mining as Musicking: The Fluid Corpus Manipulation Toolkit](https://direct.mit.edu/comj/article/45/2/9/111383/Enabling-Programmatic-Data-Mining-as-Musicking-The). Computer Music Journal 2022; 45 (2): 9–23. doi: https://doi.org/10.1162/comj_a_00600
 
-___*___ Roma, G, Xambo, A, Green, O, & Tremblay, PA. (2021) [A General Framework for Visualization of Sound Collections in Musical Interfaces](https://www.mdpi.com/2076-3417/11/24/11926). In Applied Sciences; Volume 11; Issue 24; Pages: 11926
+___*___ Roma, G, Xambó, A, Green, O, & Tremblay, PA. (2021) [A General Framework for Visualization of Sound Collections in Musical Interfaces](https://www.mdpi.com/2076-3417/11/24/11926). In Applied Sciences; Volume 11; Issue 24; Pages: 11926
+
+Xambó, A., Roma, G., Roig, S., & Solaz, E. (2021). [Live Coding with the Cloud and a Virtual Agent](https://nime.pubpub.org/pub/zpdgg2fg) International Conference on New Interfaces for Musical Expression. DOI: 10.21428/92fbeb44.64c9f217
 
 ___*___ Roma, G, Tremblay, P.A., & Green, O. (2021) [Graph-Based Audio Looping And Granulation](https://pure.hud.ac.uk/en/publications/graph-based-audio-looping-and-granulation). In Proceedings of DAFx 2021. Vienna, Austria.
 
 ___*___ Tremblay, P.A., Roma, G., & Green, O. (2021) [Digging it: Programmatic Data Mining as Musicking.](https://pure.hud.ac.uk/en/publications/digging-it-programmatic-data-mining-as-musicking) In Proceedings of the ICMC-2021.
+
+___*___ Tremblay, P.A. (2020) [A Beautiful Mess: Tales of in-between-ness in SMC research](https://pure.hud.ac.uk/en/activities/a-beautiful-mess-tales-of-in-between-ness-in-smc-research) Keynote Address. Sound and Music Computing Conference (SMC 2020). Torino, Italy.
 
 ___*___ Hart, J. (2020) [Identifier et analyser les potentialités sonores d'un instrument numérique](https://jim2020.sciencesconf.org/resource/page/id/13) Journées d'informatique musicale (JIM 2020). Strasbourg, France.
 
@@ -47,7 +61,7 @@ ___*___ Roma, G., Green, O. & Tremblay, P.A. (2018) [Improving Single-Network Si
 
 Roma, G., Xambó, A. & Freeman, J. (2018) [User-independent Accelerometer Gesture Recognition for Participatory Mobile Music](http://www.aes.org/e-lib/browse.cfm?elib=19582). Journal of the Audio Engineering Society.
 
-Xambò, A., Roma, G., Lerch, A., Barthet, M. & Fazekas, G. (2018) [Live Repurposing of Sounds: MIR Explorations with Personal and Crowd-sourced Databases](https://pure.hud.ac.uk/en/publications/live-repurposing-of-sounds-mir-explorations-with-personal-and-cro). Proceedings of the 18th conference on New Interfaces for Musical Expression.
+Xambó, A., Roma, G., Lerch, A., Barthet, M. & Fazekas, G. (2018) [Live Repurposing of Sounds: MIR Explorations with Personal and Crowd-sourced Databases](https://pure.hud.ac.uk/en/publications/live-repurposing-of-sounds-mir-explorations-with-personal-and-cro). Proceedings of the 18th conference on New Interfaces for Musical Expression.
 
 Xambó, A., Roma, G., Shah, P., Tsuchiya, T., Freeman, J. & Magerko, B. (2018) [Turn-taking and Online Chatting in Remote and Co-located Collaborative Music Live Coding](https://pure.hud.ac.uk/en/publications/turn-taking-and-chatting-in-collaborative-music-live-coding). Journal of the Audio Engineering Society. Vol. 66, Issue 4, pp. 253-266.
 

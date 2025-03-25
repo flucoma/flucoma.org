@@ -3,10 +3,11 @@ const postcss = require('gulp-postcss');
 const rsync = require('gulp-rsync'); 
 
 // process CSS
-gulp.task('css', function () {
-  return gulp.src('./_src/css/styles.css')
-    .pipe(postcss())
-    .pipe(gulp.dest('./css'));
+gulp.task('css',  function (cb) {
+  gulp.src('./_src/css/styles.css')
+        .pipe(postcss())
+        .pipe(gulp.dest('./css')); 
+  cb(); 
 });
 
 // watching
