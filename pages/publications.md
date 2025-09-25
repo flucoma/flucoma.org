@@ -15,7 +15,7 @@ For musical outputs, and software that uses our tools, see also the [commissions
 
 ___*___ Moore, T., Bradbury, J., Tremblay, P.A., Green, O. (2025) [Making Machine Learning Musical: Reflections on a Year of Teaching FluCoMa](https://seamusonline.org/wp-content/uploads/2025/01/Journal_SEAMUS_vol_32_rev_1.pdf). In Journal SEAMUS, Volume 32, Number 1–2, 2021. USA.
 
-___*___ Green, O., Tremblay, P.A., Moore, T., Bradbury, J., Hart, J., Harker, A., & Roma, G. (2022) [Architecture about Dancing: Creating a Cross Environment, Cross Domain Framework for Creative Coding Musicians](https://pure.hud.ac.uk/en/activities/architecture-about-dancing-creating-a-cross-environment-cross-dom). Presentation. 33rd Annual Workshop of the Psychology of Programming Interest Group (PPIG). Milton Keynes, United Kingdom.
+___*___ Green, O., Tremblay, P.A., Moore, T., Bradbury, J., Hart, J., Harker, A., & Roma, G. (2022) [Architecture about Dancing: Creating a Cross Environment, Cross Domain Framework for Creative Coding Musicians](https://ppig.org/files/2022-PPIG-33rd-green.pdf). Presentation. 33rd Annual Workshop of the Psychology of Programming Interest Group (PPIG). Milton Keynes, United Kingdom.
 
 ___*___ Tremblay, P.A. (2022) [The Fluid Corpus Manipulation Project: past, present, future](https://pure.hud.ac.uk/en/activities/the-fluid-corpus-manipulation-project-past-present-future) CHIME Network. United Kingdom.
 
