@@ -22,9 +22,9 @@
     "year": "2020"
   },
   {
-    "name": "SP-Tools",
+    "name": "Data Knot (previously known as S.P.Tools)",
     "by": "Rodrigo Constanzo",
-    "url": "https://github.com/rconstanzo/SP-tools",
+    "url": "https://rodrigoconstanzo.com/data-knot/",
     "desc": "Machine learning tools for low latency real-time performance",
     "year": "2022"
   },
