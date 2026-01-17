@@ -23,7 +23,7 @@ ___*___ Tremblay, P.A., Green, O., Bradbury, J., & Moore, T. (2022) [Teaching Cr
 
 ___*___ Tremblay, P.A. (2022) [Beyond cohabitation: Towards a rich interdisciplinarity in music-technology research](https://pure.hud.ac.uk/en/activities/beyond-cohabitation-towards-a-rich-interdisciplinarity-in-music-t) Keynote Address.CIRMMT Conference: Le son du futur - Le futur du son. Montreal, Canada.
 
-___*___ Tremblay, P.A., Roma, G., & Green, O. (2022) [Enabling Programmatic Data Mining as Musicking: The Fluid Corpus Manipulation Toolkit](https://direct.mit.edu/comj/article/45/2/9/111383/Enabling-Programmatic-Data-Mining-as-Musicking-The). Computer Music Journal 2022; 45 (2): 9–23. doi: https://doi.org/10.1162/comj_a_00600
+___*___ Tremblay, P.A., Roma, G., & Green, O. (2021) [Enabling Programmatic Data Mining as Musicking: The Fluid Corpus Manipulation Toolkit](https://direct.mit.edu/comj/article/45/2/9/111383/Enabling-Programmatic-Data-Mining-as-Musicking-The). Computer Music Journal 2021; 45 (2): 9–23. doi: https://doi.org/10.1162/comj_a_00600
 
 ___*___ Roma, G, Xambó, A, Green, O, & Tremblay, PA. (2021) [A General Framework for Visualization of Sound Collections in Musical Interfaces](https://www.mdpi.com/2076-3417/11/24/11926). In Applied Sciences; Volume 11; Issue 24; Pages: 11926
 

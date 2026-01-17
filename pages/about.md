@@ -25,6 +25,6 @@ In more academic settings, for any use of the toolkit, we would appreciate citat
 
 If you want to cite the design considerations and code infrastructure, you may also want to consider the following paper:
 
-*Tremblay, P.A., Roma, G., & Green, O. (2022)* **Enabling Programmatic Data Mining as Musicking: The Fluid Corpus Manipulation Toolkit.** Computer Music Journal 2022; 45 (2): 9–23. [doi: /10.1162/comj_a_00600](https://doi.org/10.1162/comj_a_00600)
+*Tremblay, P.A., Roma, G., & Green, O. (2021)* **Enabling Programmatic Data Mining as Musicking: The Fluid Corpus Manipulation Toolkit.** Computer Music Journal 2021; 45 (2): 9–23. [doi: /10.1162/comj_a_00600](https://doi.org/10.1162/comj_a_00600)
 
 For a complete list of our publications, see the [publication page](/publications).
